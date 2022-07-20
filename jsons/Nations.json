@@ -52,14 +52,14 @@
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
-		"cities": ["Ariavill","Taranteem","Dewmar","Preeyon","Starweb","Mawwlov","Speeneer","Dibblees"]
+		"cities": ["Ariavill","Taranteem","Dewmar","Preeyon","Starweb","Mawwlov","Speeneer","Dibblees","Rednet","Gazeknit","Silklisk","Marws"]
 	},
 	{
 		"name": "Pollenia",
 		"leaderName": "Hanny",
 		"outerColor": [255, 250, 115],
 		"innerColor": [158, 125, 81],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 		
 		"neutralHello": "What's up?",
 		"hateHello": "Hmm?",
@@ -70,16 +70,16 @@
 		"declaringWar": "I'm sorry, but your presence, distrupt our ecosystem. Please die!",
 		"attacked": "Are you kidding? Hehe, let me tell you, you won't win this!",
 		"defeated": "H-hehehehe, h-hehehehe! You played so well!",
-		"introduction": "Hehe, my name is Hanny! It's a pleasure to meet you~",
+		"introduction": "Hehe, my name is Hanny! Here, have some honey, those are free~",
 		
-		"tradeRequest": "I hope this nets profits for both of us.",
+		"tradeRequest": "C'mon, this is a beneficial trade, trust me~",
 		
 		"uniqueName": "Honey Capital",
-		"uniques": ["[+2 Food] from every [Strategic resource]",
-		"[+2 Food] from every [Luxury resource]"],
+		"uniques": ["[+1 Gold] from every [Strategic resource]",
+		"[+1 Food] from every [Luxury resource]"],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
-		"cities": ["Queenmoon","Taranteem","Dewmar","Preeyon","Starweb","Mawwlov","Speeneer","Dibblees"]
+		"cities": ["Hannimoon","Hornet","Hivvy","Sticken","Quinnsdale","Aromaroove","Marigold","Sparkluna","Dualtenna","Sweetviel","Wingbeet"]
 	}
 ]
