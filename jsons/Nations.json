@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Spectralia",
+		"name": "The Spectrals",
 		"leaderName": "Purplus",
 		"outerColor": [175, 116, 184],
 		"innerColor": [80, 53, 122],
@@ -27,7 +27,7 @@
 		"cities": ["D'Core","D'Fortre","D'Huggist","D'Luvland","D'Mogus","D'Phante","D'Flufe","D'Birb","D'Cateer","D'Wabbs","D'Agon","D'Ester","D'Id","D'Una","D'Plus","D'Code","D'Fani","D'Rene","D'Camu","D'Sartr","D'Aria","D'Maw","D'Ribbee","D'Whims","D'Chomp"]
 	},
 	{
-		"name": "Silka",
+		"name": "The Silks",
 		"leaderName": "Pita",
 		"outerColor": [212, 205, 108],
 		"innerColor": [212, 108, 108],
@@ -41,8 +41,8 @@
 		
 		"declaringWar": "I hereby apologize, but you're in our way! Prepare yourselves!",
 		"attacked": "Haha, what a surprise! Well, I'm looking forward for you losing this!",
-		"defeated": "Aaaah, you fought this war very well. I, Pita, leader of Silka, officially concedes.",
-		"introduction": "My name's Pita, the Silka leader! I hope you're fine with me as a spider!",
+		"defeated": "Aaaah, you fought this war very well. I, Pita, leader of The Silks, officially concedes.",
+		"introduction": "My name's Pita, the Silks leader! I hope you're fine with me as a spider!",
 		
 		"tradeRequest": "I hope this nets profits for both of us.",
 		
@@ -55,7 +55,7 @@
 		"cities": ["Ariavill","Taranteem","Dewmar","Preeyon","Starweb","Mawwlov","Speeneer","Dibblees","Rednet","Gazeknit","Silklisk","Marws"]
 	},
 	{
-		"name": "Pollenia",
+		"name": "The Pollens",
 		"leaderName": "Hanny",
 		"outerColor": [255, 250, 115],
 		"innerColor": [158, 125, 81],

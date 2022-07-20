@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Floral Scout",
-		"uniqueTo": "Spectralia",
+		"uniqueTo": "The Spectrals",
 		"unitType": "Scout",
 		"replaces": "Scout",
 		"attackSound": "nonmetalhit",
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Spider Ranger",
-		"uniqueTo": "Silka",
+		"uniqueTo": "The Silks",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
 		"movement": 3,
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Bee Soldier",
-		"uniqueTo": "Pollenia",
+		"uniqueTo": "The Pollens",
 		"replaces": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
