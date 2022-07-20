@@ -9,7 +9,7 @@
 		"requiredTech": "Refrigeration"
 	},
 	{
-		"name": "Silk's Gate",
+		"name": "Silk Gate",
 		"replaces": "Monument",
 		"uniqueTo": "The Silks",
 		"culture": 2,
