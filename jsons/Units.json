@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Floral Scout",
+		"uniqueTo": "Spectralia",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"attackSound": "nonmetalhit",
+		"movement": 3,
+		"strength": 5,
+		"cost": 15,
+		"obsoleteTech": "Scientific Theory",
+		"upgradesTo": "Composite Bowman",
+		"promotions": ["Ignore terrain cost"],
+		"_civilopediaText": [
+			{"text": "Unique Scout who fonds of flowers."}
+		]
+	},
+	{
+		"name": "Spider Ranger",
+		"uniqueTo": "Silka",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 20,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Bee Soldier",
+		"uniqueTo": "Pollenia",
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 30,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"promotions": ["March"],
+		"attackSound": "nonmetalhit",
+        "_civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	}
+]

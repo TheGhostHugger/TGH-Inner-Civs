@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Amusement Park",
+		"replaces": "Stadium",
+		"uniqueTo": "Spectralia",
+		"happiness": 4,
+		"requiredBuilding": "Theatre",
+		"uniques": ["[+2 Gold, +1 Culture] per [2] population [in this city]"],
+		"requiredTech": "Refrigeration"
+	},
+	{
+		"name": "Silka's Gate",
+		"replaces": "Monument",
+		"uniqueTo": "Silka",
+		"culture": 2,
+		"happiness": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"hurryCostModifier": 40
+	},
+	{
+		"name": "Honey Palace",
+		"replaces": "Granary",
+		"uniqueTo": "Pollenia",
+		"food": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Bonus resource] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	}
+]
