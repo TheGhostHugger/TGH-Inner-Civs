@@ -19,12 +19,12 @@
 		
 		"tradeRequest": "Hehehe, you want to trade with me??",
 		
-		"uniqueName": "Hugging Festival",
+		"uniqueName": "Impact of Joyfulness",
 		"uniques": ["[+40]% Production when constructing [Happiness] buildings [in all non-occupied cities] <when not at war>"],
 		"_civilopediaText": [
 			{"text": "A ghost who's assigned to guard the gates to Desion Land. Bue due to lack of visitors, she decided to took an offer to be a leader, somehow!"}
 		],
-		"cities": ["D'Core","D'Fortre","D'Huggist","D'Luvland","D'Mogus","D'Phante","D'Flufe","D'Birb","D'Cateer","D'Wabbs","D'Agon","D'Ester","D'Id","D'Una","D'Plus","D'Code","D'Fani","D'Rene","D'Camu","D'Sartr","D'Aria","D'Maw","D'Ribbee","D'Whims","D'Chomp"]
+		"cities": ["Lovegrow","Embraca","Joynibee","Palvilla","Truluv","Soulmeet","Thera","Ghosnova","Cheerkeep"]
 	},
 	{
 		"name": "The Silks",
@@ -46,14 +46,14 @@
 		
 		"tradeRequest": "I hope this nets profits for both of us.",
 		
-		"uniqueName": "Fire-Forged Webs",
+		"uniqueName": "Threads of Fate",
 		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital] <when not at war>", 
 					"[+30]% Production when constructing [Military] units [in all cities connected to capital] <when at war>",
 					"[-33]% maintenance on road & railroads"],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
-		"cities": ["Starweb","Ariavill","Taranteem","Dewmar","Preeyon","Mawwlov","Speeneer","Dibblees","Rednet","Gazeknit","Silklisk","Marws"]
+		"cities": ["Starweb","Ariavill","Taranteem","Dewmar","Preeyon","Mawwlov","Speeneer","Dibblees","Rednet","Gazeknit","Silklisk","Marws","D'Thread"]
 	},
 	{
 		"name": "The Pollens",
@@ -82,5 +82,36 @@
 			{"text": "Empire with spiders."}
 		],
 		"cities": ["Quinnsdale","Hannimoon","Hornet","Hivvy","Sticken","Aromaroove","Marigold","Sparkluna","Dualtenna","Sweetviel","Wingbeet"]
+	},
+	{
+		"name": "Desion",
+		"leaderName": "A",
+		"outerColor": [175, 116, 184],
+		"innerColor": [237, 197, 234],
+		"preferredVictoryType": "Neutral",
+		
+		"neutralHello": "Hello there!",
+		"hateHello": "Yeah?",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "You're so annoying, we must get rid of you!",
+		"attacked": "Hmm, we see you're interested in war. Well, we hope it goes well for all of us.",
+		"defeated": "We appreciate all your efforts, buddy. I hope my empire is in better state in your hands.",
+		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, eh",
+		
+		"tradeRequest": "What do you think about our offer?",
+		
+		"uniqueName": "Meaning of Life",
+		"uniques": [
+			"Free Great Person <after discovering [Philosophy]>",
+			"[+25]% Yield from every [Great Improvements]",
+			"[+25]% Yield from every [Natural Wonder]"
+		],
+		"_civilopediaText": [
+			{"text": "A human"}
+		],
+		"cities": ["D'Heart","D'Fortre","D'Huggist","D'Luvland","D'Mogus","D'Phante","D'Flufe","D'Birb","D'Cateer","D'Wabbs","D'Agon","D'Ester","D'Id","D'Una","D'Plus","D'Code","D'Fani","D'Rene","D'Camu","D'Sartr","D'Aria","D'Maw","D'Ribbee","D'Whims","D'Chomp"]
 	}
 ]
