@@ -55,11 +55,11 @@
 		"gold": 2,
 		"science": 2,
 		"percentStatBonus": {
-			"culture": 33,
+			"culture": 33
 		},
 		"requiredBuilding": "Museum",
 		"maintenance": 0,
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured"]
-	},
+	}
 ]
