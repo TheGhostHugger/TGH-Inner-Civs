@@ -16,6 +16,10 @@
 		"happiness": 2,
 		"cost": 40,
 		"maintenance": 1,
+		"uniques": [
+			"[+1 Culture] [in this city] <when not at war>",
+			"[+1 Happiness] [in this city] <when at war>"
+		],
 		"hurryCostModifier": 40
 	},
 	{
@@ -23,7 +27,7 @@
 		"replaces": "Granary",
 		"uniqueTo": "The Pollens",
 		"food": 2,
-		"maintenance": 0,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Food] from [Bonus resource] tiles [in this city]"],
 		"requiredTech": "Pottery"

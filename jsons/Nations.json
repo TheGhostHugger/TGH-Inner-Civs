@@ -20,7 +20,7 @@
 		"tradeRequest": "Hehehe, you want to trade with me??",
 		
 		"uniqueName": "Hugging Festival",
-		"uniques": ["[+50]% Production when constructing [Happiness] buildings [in all cities] <when not at war>"],
+		"uniques": ["[+40]% Production when constructing [Happiness] buildings [in all non-occupied cities] <when not at war>"],
 		"_civilopediaText": [
 			{"text": "A ghost who's assigned to guard the gates to Desion Land. Bue due to lack of visitors, she decided to took an offer to be a leader, somehow!"}
 		],
@@ -47,12 +47,13 @@
 		"tradeRequest": "I hope this nets profits for both of us.",
 		
 		"uniqueName": "Fire-Forged Webs",
-		"uniques": ["[+5]% Production when constructing [All] buildings [in all cities] <when not at war>", 
-					"[+30]% Production when constructing [Military] units [in all cities] <when at war>"],
+		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital] <when not at war>", 
+					"[+30]% Production when constructing [Military] units [in all cities connected to capital] <when at war>",
+					"[-33]% maintenance on road & railroads"],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
-		"cities": ["Ariavill","Taranteem","Dewmar","Preeyon","Starweb","Mawwlov","Speeneer","Dibblees","Rednet","Gazeknit","Silklisk","Marws"]
+		"cities": ["Starweb","Ariavill","Taranteem","Dewmar","Preeyon","Mawwlov","Speeneer","Dibblees","Rednet","Gazeknit","Silklisk","Marws"]
 	},
 	{
 		"name": "The Pollens",
@@ -70,16 +71,16 @@
 		"declaringWar": "I'm sorry, but your presence, distrupt our ecosystem. Please die!",
 		"attacked": "Are you kidding? Hehe, let me tell you, you won't win this!",
 		"defeated": "H-hehehehe, h-hehehehe! You played so well!",
-		"introduction": "Hehe, my name is Hanny! Here, have some honey, those are free~",
+		"introduction": "Hehe, my name is Hanny! Here, have some honey, those are free!",
 		
-		"tradeRequest": "C'mon, this is a beneficial trade, trust me~",
+		"tradeRequest": "C'mon, this is a beneficial trade, trust me!",
 		
 		"uniqueName": "Honey Capital",
-		"uniques": ["[+1 Gold] from every [Strategic resource]",
-		"[+1 Food] from every [Luxury resource]"],
+		"uniques": ["[+1 Food] from [Luxury resource] tiles [in all cities]",
+		"[+1 Gold] from [Strategic resource] tiles [in all cities]"],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
-		"cities": ["Hannimoon","Hornet","Hivvy","Sticken","Quinnsdale","Aromaroove","Marigold","Sparkluna","Dualtenna","Sweetviel","Wingbeet"]
+		"cities": ["Quinnsdale","Hannimoon","Hornet","Hivvy","Sticken","Aromaroove","Marigold","Sparkluna","Dualtenna","Sweetviel","Wingbeet"]
 	}
 ]

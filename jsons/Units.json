@@ -5,12 +5,12 @@
 		"unitType": "Scout",
 		"replaces": "Scout",
 		"attackSound": "nonmetalhit",
-		"movement": 3,
+		"movement": 2,
 		"strength": 5,
-		"cost": 15,
+		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Ignore terrain cost"],
+		"promotions": ["Ignore terrain cost", "Scouting I"],
 		"_civilopediaText": [
 			{"text": "Unique Scout who fonds of flowers."}
 		]
@@ -21,11 +21,11 @@
 		"unitType": "Mounted",
 		"replaces": "Horseman",
 		"movement": 3,
-		"strength": 20,
+		"strength": 17,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
+		"promotions": ["Sentry"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
 	},
@@ -36,7 +36,7 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 8,
-		"cost": 30,
+		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"promotions": ["March"],
