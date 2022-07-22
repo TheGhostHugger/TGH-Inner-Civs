@@ -1,3 +1,9 @@
+22/07/2022
+- Not much city names for them for now
+- Added The Knights, Sid's empire
+- Added The Beakers, Chrome's empire
+- Added Drake, Hatred's empire
+
 21/07/2022
 - Added Desion, A's empire
 - Some balance changes

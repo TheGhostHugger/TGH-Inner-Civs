@@ -113,5 +113,97 @@
 			{"text": "A human"}
 		],
 		"cities": ["D'Heart","D'Fortre","D'Huggist","D'Luvland","D'Mogus","D'Phante","D'Flufe","D'Birb","D'Cateer","D'Wabbs","D'Agon","D'Ester","D'Id","D'Una","D'Plus","D'Code","D'Fani","D'Rene","D'Camu","D'Sartr","D'Aria","D'Maw","D'Ribbee","D'Whims","D'Chomp"]
+	},
+	{
+		"name": "The Beakers",
+		"leaderName": "Chrome",
+		"outerColor": [0, 32, 63],
+		"innerColor": [173, 239, 209],
+		"preferredVictoryType": "Science",
+		"startBias": ["River"],
+		
+		"neutralHello": "I'm busy. What is it?",
+		"hateHello": "...",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "You're so annoying, we must get rid of you!",
+		"attacked": "Hmm, we see you're interested in war. Well, we hope it goes well for all of us.",
+		"defeated": "We appreciate all your efforts, buddy. I hope my empire is in better state in your hands.",
+		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, eh",
+		
+		"tradeRequest": "What do you think about our offer?",
+		
+		"uniqueName": "Experimentalist",
+		"uniques": [
+			"Provides a [Library] in your first [4] cities for free",
+			"Science gained from research agreements [+25]%"
+		],
+		"_civilopediaText": [
+			{"text": "A beaker"}
+		],
+		"cities": ["Firstvial"]
+	},
+	{
+		"name": "The Knights",
+		"leaderName": "Sid",
+		"outerColor": [16, 24, 32],
+		"innerColor": [254, 231, 21],
+		"preferredVictoryType": "Domination",
+		
+		"neutralHello": "I'm busy. What is it?",
+		"hateHello": "...",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "You're so annoying, we must get rid of you!",
+		"attacked": "Hmm, we see you're interested in war. Well, we hope it goes well for all of us.",
+		"defeated": "We appreciate all your efforts, buddy. I hope my empire is in better state in your hands.",
+		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, eh",
+		
+		"tradeRequest": "What do you think about our offer?",
+		
+		"uniqueName": "The Hero's Journey",
+		"uniques": [
+			"[-50]% maintenance costs <for [Military] units> <when not at war>",
+			"[-50]% Gold cost of upgrading"
+		],
+		"_civilopediaText": [
+			{"text": "A knight pen"}
+		],
+		"cities": ["Swordsbottom"]
+	},
+	{
+		"name": "Drake",
+		"leaderName": "Hatred",
+		"outerColor": [45, 41, 38],
+		"innerColor": [233, 75, 60],
+		"preferredVictoryType": "Domination",
+		
+		"neutralHello": "What do you want?",
+		"hateHello": "What is it, enemy?",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "Heheheheh, your pitiful army won't stand up against mine. Prepare to die!",
+		"attacked": "Foolish, foolish! Do you think you have what it takes on Drake? I don't believe you, hah!",
+		"defeated": "Urgh, you, you! Gaaah, I surrender! You should be the dragon, not me!",
+		"introduction": "My name is Hatred of Drake. Be aware of your manners, otherwise I will strike you, hah!",
+		
+		"tradeRequest": "What do you think about our offer?",
+		
+		"uniqueName": "World Must Burn",
+		"uniques": [
+			"[+1] Movement <for [Military] units> <when at war>",
+			"[-50]% Unhappiness from [Population] [in all non-occupied cities] <when at war>",
+			"No movement cost to pillage"
+		],
+		"_civilopediaText": [
+			{"text": "A scary dragon"}
+		],
+		"cities": ["Fireheart"]
 	}
 ]

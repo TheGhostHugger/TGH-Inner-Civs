@@ -61,5 +61,57 @@
 		"maintenance": 0,
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Alchemy",
+		"replaces": "Library",
+		"uniqueTo": "The Beakers",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"science": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Water Research Facility",
+		"replaces": "Hydro Plant",
+		"uniqueTo": "The Beakers",
+		"requiredResource": "Aluminum",
+		"hurryCostModifier": 0,
+		"maintenance": 3,
+		"science": 2,
+		"uniques": [
+			"Must be on [River]",
+			"[+1 Production] from [River] tiles [in this city]",
+			"[+1 Food] from [River] tiles [in this city]",
+			"[+1 Science] from [River] tiles [in this city]"
+		],
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Tavern",
+		"replaces": "Barracks",
+		"uniqueTo": "The Knights",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]", 
+			"Destroyed when the city is captured",
+			"All newly-trained [Land] units [in this city] receive the [Bounty] promotion"
+		],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Furnace",
+		"replaces": "Forge",
+		"uniqueTo": "Drake",
+		"maintenance": 1,
+		"production": 3,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
 	}
 ]
