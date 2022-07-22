@@ -2,8 +2,8 @@
 	{
 		"name": "The Spectrals",
 		"leaderName": "Purplus",
-		"outerColor": [175, 116, 184],
-		"innerColor": [80, 53, 122],
+		"outerColor": [252, 249, 81],
+		"innerColor": [66, 32, 87],
 		"preferredVictoryType": "Culture",
 		
 		"neutralHello": "Good morning!",
@@ -29,8 +29,8 @@
 	{
 		"name": "The Silks",
 		"leaderName": "Pita",
-		"outerColor": [212, 205, 108],
-		"innerColor": [212, 108, 108],
+		"outerColor": [249, 56, 34],
+		"innerColor": [253, 210, 14],
 		"preferredVictoryType": "Domination",
 		
 		"neutralHello": "What's up?",
@@ -58,8 +58,8 @@
 	{
 		"name": "The Pollens",
 		"leaderName": "Hanny",
-		"outerColor": [255, 250, 115],
-		"innerColor": [158, 125, 81],
+		"outerColor": [218, 160, 61],
+		"innerColor": [97, 98, 71],
 		"preferredVictoryType": "Diplomatic",
 		
 		"neutralHello": "What's up?",
@@ -86,8 +86,8 @@
 	{
 		"name": "Desion",
 		"leaderName": "A",
-		"outerColor": [175, 116, 184],
-		"innerColor": [237, 197, 234],
+		"outerColor": [96, 63, 131],
+		"innerColor": [199, 211, 212],
 		"preferredVictoryType": "Neutral",
 		
 		"neutralHello": "Hello there!",
