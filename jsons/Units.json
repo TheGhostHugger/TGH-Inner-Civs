@@ -47,6 +47,7 @@
 	},
 	{
 		"name": "Glory Knight",
+		"uniqueTo": "The Knights",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 5,
