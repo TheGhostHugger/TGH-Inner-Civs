@@ -32,6 +32,7 @@
 		"outerColor": [249, 56, 34],
 		"innerColor": [253, 210, 14],
 		"preferredVictoryType": "Domination",
+		"startBias": ["Forest"],
 		
 		"neutralHello": "What's up?",
 		"hateHello": "Hmm?",
@@ -61,6 +62,7 @@
 		"outerColor": [218, 160, 61],
 		"innerColor": [97, 98, 71],
 		"preferredVictoryType": "Diplomatic",
+		"startBias": ["Avoid [Coast]"],
 		
 		"neutralHello": "What's up?",
 		"hateHello": "Hmm?",
@@ -181,6 +183,7 @@
 		"outerColor": [45, 41, 38],
 		"innerColor": [233, 75, 60],
 		"preferredVictoryType": "Domination",
+		"startBias": ["Hill"],
 		
 		"neutralHello": "What do you want?",
 		"hateHello": "What is it, enemy?",
