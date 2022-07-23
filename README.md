@@ -11,6 +11,9 @@ Unless otherwise specified, all the following are from https://game-icons.net/ (
 - [Self love](https://game-icons.net/1x1/lorc/self-love.html) by Lorc for Desion, A's empire
 - [Heart wings](https://game-icons.net/1x1/delapouite/heart-wings.html) by Delapoite for The Spectrals, Purplus's empire
 - [Zigzag cage](https://game-icons.net/1x1/lorc/zigzag-cage.html) by Lorc for The Silks, Pita's empire
+- [Heart burn](https://game-icons.net/1x1/lorc/heartburn.html) by Lorc for Drake, Hatred's empire
+- [Fizzing flask](https://game-icons.net/1x1/lorc/fizzing-flask.html) by Lorc for The Beakers, Chrome's empire
+- [Winged sword](https://game-icons.net/1x1/lorc/winged-sword.html) by Lorc for The Knights, Sid's empire
 
 #### Unit icons
 - [Spider](https://game-icons.net/1x1/carl-olsen/spider-alt.html) by Carl Olsen for Spider Ranger
