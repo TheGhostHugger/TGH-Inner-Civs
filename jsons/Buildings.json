@@ -5,7 +5,7 @@
 		"uniqueTo": "The Spectrals",
 		"happiness": 4,
 		"requiredBuilding": "Theatre",
-		"uniques": ["[+1] per [1] population [in this city]"],
+		"uniques": ["[+1 Gold] per [2] population [in this city]"],
 		"requiredTech": "Refrigeration"
 	},
 	{
