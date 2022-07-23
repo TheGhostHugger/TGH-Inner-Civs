@@ -9,7 +9,8 @@
 		"strength": 5,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"upgradesTo": "Composite Bowman",
+		"upgradesTo": "Archer",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
 		"promotions": ["Ignore terrain cost", "Scouting I"],
 		"_civilopediaText": [
 			{"text": "Unique Scout who fonds of flowers."}
@@ -21,43 +22,48 @@
 		"unitType": "Mounted",
 		"replaces": "Horseman",
 		"movement": 3,
-		"strength": 17,
+		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
-		"promotions": ["Sentry"],
+		"obsoleteTech": "Chivalry",
+		"promotions": ["Arachnid's Instinct"],
+		"uniques": [
+			"Can move after attacking",
+			"[-33]% Strength <vs cities> <when attacking>"
+		],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit"
+		"attackSound": "horse"
 	},
 	{
 		"name": "Bee Soldier",
 		"uniqueTo": "The Pollens",
-		"replaces": "Warrior",
+		"replaces": "Pikeman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 8,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"promotions": ["March"],
-		"attackSound": "nonmetalhit",
-        "_civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
-		]
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Shock I"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Glory Knight",
 		"uniqueTo": "The Knights",
 		"replaces": "Knight",
 		"unitType": "Mounted",
-		"movement": 5,
-		"strength": 22,
+		"movement": 4,
+		"strength": 20,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Mobility"],
 		"attackSound": "horse"
 	},
 	{

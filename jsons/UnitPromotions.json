@@ -2,13 +2,26 @@
   {
     "name": "Burning Desire",
 		"uniques": [
-      "[+75]% Strength <vs cities>"
+      "[+50]% Strength <vs cities>"
     ]
   },
   {
     "name": "Bounty",
 		"uniques": [
       "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
+    ]
+  },
+  {
+    "name": "Arachnid's Instinct",
+		"uniques": [
+      "Can see over obstacles"
+    ]
+  },
+  {
+    "name": "Fresh Forged",
+    "_comment": "Probably will be used for Hatred's Furnace thing, swap out Forgery, and grant Sword/Gunpowder unit this.",
+		"uniques": [
+      "[+33]% Strength <vs cities>"
     ]
   }
 ]

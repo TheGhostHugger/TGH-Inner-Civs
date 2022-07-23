@@ -1,3 +1,8 @@
+23/07/2022
+- Updated dialogues for Nations
+- Effect changes to Buildings
+- Added city names for those 3
+
 22/07/2022
 - Not much city names for them for now
 - Added The Knights, Sid's empire

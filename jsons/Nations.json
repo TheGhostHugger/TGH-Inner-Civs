@@ -2,9 +2,9 @@
 	{
 		"name": "The Spectrals",
 		"leaderName": "Purplus",
-		"outerColor": [252, 249, 81],
-		"innerColor": [66, 32, 87],
-		"preferredVictoryType": "Culture",
+		"outerColor": [66, 32, 87],
+		"innerColor": [252, 249, 81],
+		"preferredVictoryType": "Cultural",
 		
 		"neutralHello": "Good morning!",
 		"hateHello": "Good morning...",
@@ -13,13 +13,13 @@
 		"startIntroPart2": " ",
 		
 		"declaringWar": "I'm sorry but, I have to remove you from this plane of existence. Sorry again!",
-		"attacked": "Aaaaah, why? Why??!",
-		"defeated": "Maybe I should've trained myself better for this, h-hehe",
+		"attacked": "D-do you think I'm not kind enough? Why, why?!",
+		"defeated": "M-maybe I should've trained myself better for this, h-hehe",
 		"introduction": "Hiya! My name is Purplus, I hope we'll be friends!",
 		
-		"tradeRequest": "Hehehe, you want to trade with me??",
+		"tradeRequest": "Hehehe, this trade should be beneficial for both of us!",
 		
-		"uniqueName": "Heaven Society",
+		"uniqueName": "Heavenly Society",
 		"uniques": ["[+40]% Production when constructing [Happiness] buildings [in all non-occupied cities] <when not at war>"],
 		"_civilopediaText": [
 			{"text": "A ghost who's assigned to guard the gates to Desion Land. Bue due to lack of visitors, she decided to took an offer to be a leader, somehow!"}
@@ -31,10 +31,10 @@
 		"leaderName": "Pita",
 		"outerColor": [249, 56, 34],
 		"innerColor": [253, 210, 14],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 		"startBias": ["Forest"],
 		
-		"neutralHello": "What's up?",
+		"neutralHello": "Anything you want, captain?",
 		"hateHello": "Hmm?",
 		
 		"startIntroPart1": " ",
@@ -42,15 +42,16 @@
 		
 		"declaringWar": "I hereby apologize, but you're in our way! Prepare yourselves!",
 		"attacked": "Haha, what a surprise! Well, I'm looking forward for you losing this!",
-		"defeated": "Aaaah, you fought this war very well. I, Pita, leader of The Silks, officially concedes.",
-		"introduction": "My name's Pita, the Silks leader! I hope you're fine with me as a spider!",
+		"defeated": "Hahaha! You fought this war very well! I, Pita, leader of The Silks, officially concedes.",
+		"introduction": "My name's Pita, the Silks leader. I hope you're fine with me as a spider!",
 		
 		"tradeRequest": "I hope this nets profits for both of us.",
 		
 		"uniqueName": "Threads of Fate",
-		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital] <when not at war>", 
-					"[+30]% Production when constructing [Military] units [in all cities connected to capital] <when at war>",
-					"[-33]% maintenance on road & railroads"],
+		"uniques": [
+			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]",
+			"[+2] Movement <for [Civilian] units>"
+	],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
@@ -64,15 +65,15 @@
 		"preferredVictoryType": "Diplomatic",
 		"startBias": ["Avoid [Coast]"],
 		
-		"neutralHello": "What's up?",
-		"hateHello": "Hmm?",
+		"neutralHello": "What's up!",
+		"hateHello": "There are no free honey for you!",
 		
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 		
-		"declaringWar": "I'm sorry, but your presence, distrupt our ecosystem. Please die!",
+		"declaringWar": "I'm sorry, but your presence distrupts our ecosystem. Please die!",
 		"attacked": "Are you kidding? Hehe, let me tell you, you won't win this!",
-		"defeated": "H-hehehehe, h-hehehehe! You played so well!",
+		"defeated": "H-hehehehe, h-hehehehe! Y-you f-fought so well! I-I give up!",
 		"introduction": "Hehe, my name is Hanny! Here, have some honey, those are free!",
 		
 		"tradeRequest": "C'mon, this is a beneficial trade, trust me!",
@@ -90,26 +91,25 @@
 		"leaderName": "A",
 		"outerColor": [96, 63, 131],
 		"innerColor": [199, 211, 212],
-		"preferredVictoryType": "Neutral",
+		"preferredVictoryType": "Cultural",
 		
-		"neutralHello": "Hello there!",
-		"hateHello": "Yeah?",
+		"neutralHello": "Hello there, stranger!",
+		"hateHello": "Get to the point, stranger",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": " ",
 		
 		"declaringWar": "You're so annoying, we must get rid of you!",
 		"attacked": "Hmm, we see you're interested in war. Well, we hope it goes well for all of us.",
-		"defeated": "We appreciate all your efforts, buddy. I hope my empire is in better state in your hands.",
-		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, eh",
+		"defeated": "Alas, I've fallen, heh. I hope my empire is in better state in your hands.",
+		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, heh",
 		
 		"tradeRequest": "What do you think about our offer?",
 		
 		"uniqueName": "Meaning of Life",
 		"uniques": [
-			"Receive free [Great Person] when you discover [Philosophy]",
-			"[+25]% Yield from every [Great Improvements]",
-			"[+25]% Yield from every [Natural Wonder]"
+			"Receive free [Great Engineer] when you discover [Philosophy]",
+			"[+25]% Yield from every [Great Improvements]"
 		],
 		"_civilopediaText": [
 			{"text": "A human"}
@@ -121,31 +121,31 @@
 		"leaderName": "Chrome",
 		"outerColor": [0, 32, 63],
 		"innerColor": [173, 239, 209],
-		"preferredVictoryType": "Science",
-		"startBias": ["River"],
+		"preferredVictoryType": "Scientific",
+		"startBias": ["Coast"],
 		
-		"neutralHello": "I'm busy. What is it?",
-		"hateHello": "...",
+		"neutralHello": "Any topic?",
+		"hateHello": "On point!",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": " ",
 		
-		"declaringWar": "You're so annoying, we must get rid of you!",
-		"attacked": "Hmm, we see you're interested in war. Well, we hope it goes well for all of us.",
-		"defeated": "We appreciate all your efforts, buddy. I hope my empire is in better state in your hands.",
-		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, eh",
+		"declaringWar": "You pest, we angry. Must exterminate!",
+		"attacked": "You kidding? Guess, you'll vanish!",
+		"defeated": "You conqueror. I'm amazed. Take care.",
+		"introduction": "Name's Chrome, Beakers' leader. Apologize, dislikes chatter.",
 		
-		"tradeRequest": "What do you think about our offer?",
+		"tradeRequest": "Trade agreement conclude?",
 		
-		"uniqueName": "Experimentalist",
+		"uniqueName": "Magical Science",
 		"uniques": [
-			"Provides a [Library] in your first [4] cities for free",
-			"Science gained from research agreements [+25]%"
+			"Starts with [Writing]",
+			"Provides a [Alchemy] in your first [3] cities for free"
 		],
 		"_civilopediaText": [
 			{"text": "A beaker"}
 		],
-		"cities": ["Firstvial"]
+		"cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester"]
 	},
 	{
 		"name": "The Knights",
@@ -153,29 +153,30 @@
 		"outerColor": [16, 24, 32],
 		"innerColor": [254, 231, 21],
 		"preferredVictoryType": "Domination",
+		"startBias": ["Hill"],
 		
-		"neutralHello": "I'm busy. What is it?",
-		"hateHello": "...",
+		"neutralHello": "Huh, yeah?",
+		"hateHello": "Huh? Its you again.",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": " ",
 		
-		"declaringWar": "You're so annoying, we must get rid of you!",
-		"attacked": "Hmm, we see you're interested in war. Well, we hope it goes well for all of us.",
-		"defeated": "We appreciate all your efforts, buddy. I hope my empire is in better state in your hands.",
-		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, eh",
+		"declaringWar": "It is unfortunate of how profitable it is due to many bounties placed on you. Sorry, but you must die!",
+		"attacked": "My next target attacks me, huh? Well, this will surely become an interesting match!",
+		"defeated": "You're so good at this, I feel honored to be beaten by your nation.",
+		"introduction": "My name is Sid of the Knights. We're running knight errands daily, join while you can!",
 		
-		"tradeRequest": "What do you think about our offer?",
+		"tradeRequest": "Take this offer bud, it'll be worthwhile for both of us.",
 		
-		"uniqueName": "The Hero's Journey",
+		"uniqueName": "Adventurer's Guild",
 		"uniques": [
-			"[-50]% maintenance costs <for [Military] units> <when not at war>",
-			"[-50]% Gold cost of upgrading"
+			"Starts with [Iron Working]",
+			"[-50]% Gold cost of upgrading <for [Military] units>"
 		],
 		"_civilopediaText": [
 			{"text": "A knight pen"}
 		],
-		"cities": ["Swordsbottom"]
+		"cities": ["Swordsbottom","Arkdale","Velas","Phaross","Ekabus","Waybury","Budmouth","Adagate","Xegow"]
 	},
 	{
 		"name": "Drake",
@@ -196,17 +197,16 @@
 		"defeated": "Urgh, you, you! Gaaah, I surrender! You should be the dragon, not me!",
 		"introduction": "My name is Hatred of Drake. Be aware of your manners, otherwise I will strike you, hah!",
 		
-		"tradeRequest": "What do you think about our offer?",
+		"tradeRequest": "Accept this proposal or else!",
 		
 		"uniqueName": "World Must Burn",
 		"uniques": [
-			"[+1] Movement <for [Military] units> <when at war>",
-			"[-50]% Unhappiness from [Population] [in all non-occupied cities] <when at war>",
+			"[+1] Movement <for [Military] units> <when not at war>",
 			"No movement cost to pillage"
 		],
 		"_civilopediaText": [
 			{"text": "A scary dragon"}
 		],
-		"cities": ["Fireheart"]
+		"cities": ["Fireheart","Blazelane","Gigascale","Fearforce","Tormento","Bigclaw","Lastden"]
 	}
 ]
