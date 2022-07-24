@@ -209,7 +209,8 @@
 		
 		"uniqueName": "World Must Burn",
 		"uniques": [
-			"[+1] Movement <for [Military] units> <when above [75] HP>"
+			"[+33]% Strength <when above [75] health>",
+			"[+5] HP when healing"
 		],
 		"_civilopediaText": [
 			{"text": "A scary dragon"}
