@@ -20,7 +20,10 @@
 		"tradeRequest": "Hehehe, this trade should be beneficial for both of us!",
 		
 		"uniqueName": "Heavenly Society",
-		"uniques": ["[+40]% Production when constructing [Happiness] buildings [in all non-occupied cities] <when not at war>"],
+		"uniques": [
+			"[+20]% Production when constructing [Happiness] buildings [in all non-occupied cities]",
+			"[+20]% Production when constructing [All] buildings [in all non-occupied cities] <during a Golden Age>"
+		],
 		"_civilopediaText": [
 			{"text": "A ghost who's assigned to guard the gates to Desion Land. Bue due to lack of visitors, she decided to took an offer to be a leader, somehow!"}
 		],
