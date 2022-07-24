@@ -49,7 +49,9 @@
 		
 		"uniqueName": "Threads of Fate",
 		"uniques": [
+			"[+10]% Production when constructing [All] buildings [in capital]",
 			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]",
+			"[+1 Production] for [Bonus resource] tiles [in capital]",
 			"[+1 Production] for [Bonus resource] tiles [in all cities connected to capital]"
 	],
 		"_civilopediaText": [
@@ -79,8 +81,11 @@
 		"tradeRequest": "C'mon, this is a beneficial trade, trust me!",
 		
 		"uniqueName": "Honey Capital",
-		"uniques": ["[+1 Food] from [Luxury resource] tiles [in all cities]",
-		"[+1 Gold] from [Luxury resource] tiles [in all cities connected to capital]"],
+		"uniques": [
+			"[+1 Food] from [Luxury resource] tiles [in all cities]",
+			"[+1 Gold] from [Luxury resource] tiles [in capital]",
+			"[+1 Gold] from [Luxury resource] tiles [in all cities connected to capital]"
+		],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
