@@ -50,7 +50,7 @@
 		"uniqueName": "Threads of Fate",
 		"uniques": [
 			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]",
-			"[+2] Movement <for [Civilian] units>"
+			"[+1 Production] for [Bonus resource] tiles [in all cities connected to capital]"
 	],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
@@ -80,7 +80,7 @@
 		
 		"uniqueName": "Honey Capital",
 		"uniques": ["[+1 Food] from [Luxury resource] tiles [in all cities]",
-		"[+1 Gold] from [Strategic resource] tiles [in all cities]"],
+		"[+1 Gold] from [Luxury resource] tiles [in all cities connected to capital]"],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
@@ -108,8 +108,8 @@
 		
 		"uniqueName": "Meaning of Life",
 		"uniques": [
-			"Receive free [Great Engineer] when you discover [Philosophy]",
-			"[+25]% Yield from every [Great Improvements]"
+			"Receive free [Great Artist] when you discover [Philosophy]",
+			"[+50]% Yield from every [Great Improvements]"
 		],
 		"_civilopediaText": [
 			{"text": "A human"}
@@ -145,7 +145,7 @@
 		"_civilopediaText": [
 			{"text": "A beaker"}
 		],
-		"cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester","Hydroflume","Bebelabs"]
+		"cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester","Hydroflume"]
 	},
 	{
 		"name": "The Knights",
@@ -202,7 +202,7 @@
 		"uniqueName": "World Must Burn",
 		"uniques": [
 			"[+1] Movement <for [Military] units> <when not at war>",
-			"No movement cost to pillage"
+			"[+5] HP when healing <for [Military] units>"
 		],
 		"_civilopediaText": [
 			{"text": "A scary dragon"}

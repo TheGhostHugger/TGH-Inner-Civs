@@ -60,7 +60,7 @@
 		"uniqueTo": "The Beakers",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"science": 2,
+		"culture": 2,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
