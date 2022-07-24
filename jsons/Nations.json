@@ -54,8 +54,8 @@
 		"uniques": [
 			"[+10]% Production when constructing [All] buildings [in capital]",
 			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]",
-			"[+1 Production] for [Bonus resource] tiles [in capital]",
-			"[+1 Production] for [Bonus resource] tiles [in all cities connected to capital]"
+			"[+1 Production] from [Bonus resource] tiles [in capital]",
+			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]"
 	],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
