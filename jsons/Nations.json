@@ -145,7 +145,7 @@
 		"_civilopediaText": [
 			{"text": "A beaker"}
 		],
-		"cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester"]
+		"cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester","Hydroflume","Bebelabs"]
 	},
 	{
 		"name": "The Knights",
@@ -176,7 +176,7 @@
 		"_civilopediaText": [
 			{"text": "A knight pen"}
 		],
-		"cities": ["Swordsbottom","Arkdale","Velas","Phaross","Ekabus","Waybury","Budmouth","Adagate","Xegow"]
+		"cities": ["Titansrow","Swordsbottom","Arkdale","Velas","Phaross","Ekabus","Waybury","Budmouth","Adagate","Xegow"]
 	},
 	{
 		"name": "Drake",
