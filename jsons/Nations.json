@@ -22,7 +22,7 @@
 		"uniqueName": "Heavenly Society",
 		"uniques": [
 			"[+20]% Production when constructing [Happiness] buildings [in all non-occupied cities]",
-			"[+20]% Production when constructing [All] buildings [in all non-occupied cities] <during a Golden Age>"
+			"[+20]% [Production] [in all non-occupied cities] <during a Golden Age>"
 		],
 		"_civilopediaText": [
 			{"text": "A ghost who's assigned to guard the gates to Desion Land. Bue due to lack of visitors, she decided to took an offer to be a leader, somehow!"}
@@ -143,12 +143,13 @@
 		"defeated": "You conqueror. I'm amazed. Take care.",
 		"introduction": "Name's Chrome, Beakers' leader. Apologize, dislikes chatter.",
 		
-		"tradeRequest": "Trade agreement conclude?",
+		"tradeRequest": "Trade agreement, conclude?",
 		
-		"uniqueName": "Magical Science",
+		"uniqueName": "Early Science Theory",
 		"uniques": [
-			"Starts with [Writing]",
-			"Provides a [Alchemy] in your first [3] cities for free"
+			"[+1 Science] from [Water] tiles [in all cities] <after discovering [Sailing]>",
+			"Gain a free [Alchemy] [in capital] <after discovering [Writing]>",
+			"Gain a free [Observatory] [in capital] <after discovering [Astronomy]>"
 		],
 		"_civilopediaText": [
 			{"text": "A beaker"}
