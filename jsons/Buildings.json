@@ -12,7 +12,7 @@
 		"name": "Silk Gate",
 		"replaces": "Monument",
 		"uniqueTo": "The Silks",
-		"culture": 2,
+		"culture": 1,
 		"production": 2,
 		"cost": 40,
 		"maintenance": 1,
@@ -60,7 +60,7 @@
 		"uniqueTo": "The Beakers",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"culture": 2,
+		"science": 2,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},

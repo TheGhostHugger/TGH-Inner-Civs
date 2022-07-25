@@ -4,7 +4,7 @@
 		"leaderName": "Purplus",
 		"outerColor": [66, 32, 87],
 		"innerColor": [252, 249, 81],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Neutral",
 		
 		"neutralHello": "Good morning!",
 		"hateHello": "Good morning...",
@@ -34,7 +34,7 @@
 		"leaderName": "Pita",
 		"outerColor": [249, 56, 34],
 		"innerColor": [253, 210, 14],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Neutral",
 		"startBias": ["Forest"],
 		
 		"neutralHello": "Anything you want, captain?",
