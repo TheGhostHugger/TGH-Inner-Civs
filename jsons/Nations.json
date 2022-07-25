@@ -57,6 +57,7 @@
 			"[+1 Production] from [Bonus resource] tiles [in capital]",
 			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]"
 	],
+		"uniqueText": "+10% Production when constructing All buildings in capital and all cities connected to capital. \n+1 Production from Bonus resource tiles in capital and all cities connected to capital",
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
