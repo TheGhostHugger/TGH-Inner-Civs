@@ -52,9 +52,7 @@
 		
 		"uniqueName": "Threads of Fate",
 		"uniques": [
-			"[+10]% Production when constructing [All] buildings [in capital]",
 			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]",
-			"[+1 Production] from [Bonus resource] tiles [in capital]",
 			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]"
 	],
 		"uniqueText": "+10% Production when constructing All buildings in capital and all cities connected to capital. \n+1 Production from Bonus resource tiles in capital and all cities connected to capital",
@@ -87,7 +85,6 @@
 		"uniqueName": "Honey Capital",
 		"uniques": [
 			"[+1 Food] from [Luxury resource] tiles [in all cities]",
-			"[+1 Gold] from [Luxury resource] tiles [in capital]",
 			"[+1 Gold] from [Luxury resource] tiles [in all cities connected to capital]"
 		],
 		"_civilopediaText": [
@@ -148,7 +145,7 @@
 		
 		"uniqueName": "Early Science Theory",
 		"uniques": [
-			"[+1 Science] from [Water] tiles [in all cities] <after discovering [Sailing]>",
+			"[+2 Science] from [Water] tiles [in all cities] <after discovering [Optics]>",
 			"Gain a free [Alchemy] [in capital] <after discovering [Writing]>",
 			"Gain a free [Observatory] [in capital] <after discovering [Astronomy]>"
 		],
