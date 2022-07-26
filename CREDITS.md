@@ -1,5 +1,8 @@
 # Credits
 
+## Social preview
+Fonts used Montserrat and Marko One
+
 ## Icon Credits
 
 Unless otherwise specified, all the following are from [Game-icons.net](https://game-icons.net/) (CC BY 3.0)
