@@ -29,19 +29,6 @@
 		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Mural Walls",
-		"replaces": "Walls",
-		"uniqueTo": "Desion",
-		"cityStrength": 5,
-		"cityHealth": 50,
-		"happiness": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": [
-			"Destroyed when the city is captured"
-		]
-	},
-	{
 		"name": "Art Studio",
 		"uniqueTo": "Desion",
 		"replaces": "Museum",

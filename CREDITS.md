@@ -1,6 +1,7 @@
 # Credits
 
 ## Social preview
+
 Fonts used Montserrat and Marko One
 
 ## Icon Credits
@@ -43,6 +44,11 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Stabbed note](https://game-icons.net/1x1/delapouite/stabbed-note.html) by Delapouite for Bounty
 - [Burning book](https://game-icons.net/1x1/lorc/burning-book.html) by Lorc for Burning Desire
 - [Anvil impact](https://game-icons.net/1x1/lorc/anvil-impact.html) by Lorc for Fresh Forged
+
+### Tile Improvements icon
+
+- [Mountain cave](https://game-icons.net/1x1/delapouite/mountain-cave.html) by Delapouite for Murals
+  - The pixel art of the overworld sprite is made by myself based on Ivory sprite, feel free to use it.
 
 ### Unused icons
 
