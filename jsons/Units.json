@@ -36,7 +36,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Bee Soldier",
+		"name": "Honey Soldier",
 		"uniqueTo": "The Pollens",
 		"replaces": "Pikeman",
 		"unitType": "Sword",
@@ -79,5 +79,21 @@
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["Burning Desire"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Sniper",
+		"uniqueTo": "Desion",
+		"replaces": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 34,
+		"cost": 225,
+		"promotions": ["Extended Range"],
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
 	}
 ]

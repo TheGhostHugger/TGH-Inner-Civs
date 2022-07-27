@@ -21,38 +21,42 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 ### Unit icons
 
 - [Spider](https://game-icons.net/1x1/carl-olsen/spider-alt.html) by Carl Olsen for Spider Ranger
-- [Bee](https://game-icons.net/1x1/lorc/bee.html) by Lorc for Bee Soldier
+- [Bee](https://game-icons.net/1x1/lorc/bee.html) by Lorc for Honey Soldier
 - [Sunflower](https://game-icons.net/1x1/delapouite/sunflower.html) by Delapouite for Floral Scout
 - [Flamethrower](https://game-icons.net/1x1/delapouite/flamethrower.html) by Delapouite for Flamethrower
 - [Cloaked figure on horseback](https://game-icons.net/1x1/caro-asercion/cloaked-figure-on-horseback.html) by Caro Asercion for Glory Knight
+- [Eye target](https://game-icons.net/1x1/delapouite/eye-target.html) by Delapoite for Sniper
 
 ### Building icons
 
 - [Crypt entrance](https://game-icons.net/1x1/delapouite/crypt-entrance.html) by Delapouite for Silk Gate
-- [Paint roller](https://game-icons.net/1x1/delapouite/paint-roller.html) by Delapouite for Mural Walls
-- [Dripping honey](https://game-icons.net/1x1/lorc/dripping-honey.html) by Lorc for Honey Palace
 - [Carousel](https://game-icons.net/1x1/delapouite/carousel.html) by Delapouite for Amusement Park
 - [Furnace](https://game-icons.net/1x1/delapouite/furnace.html) by Delapouite for Furnace
 - [Cauldron](https://game-icons.net/1x1/darkzaitzev/cauldron.html) by DarkZaitzev for Alchemy
-- [Easel](https://game-icons.net/1x1/caro-asercion/easel.html) by Caro Asercion for Art Studio
 - [Tavern sign](https://game-icons.net/1x1/delapouite/tavern-sign.html) by Delapouite for Tavern
 - [H2O](https://game-icons.net/1x1/delapouite/h2o.html) by Delapouite for Water Research Facility
+- [Beehive](https://game-icons.net/1x1/delapouite/beehive.html) by Delapouite for Beehive
 
 ### Unit Promotion icons
 
 - [Spider face](https://game-icons.net/1x1/carl-olsen/spider-face.html) by Carl Orsen for Arachnid's Instinct
-- [Stabbed note](https://game-icons.net/1x1/delapouite/stabbed-note.html) by Delapouite for Bounty
+- ~~[Stabbed note](https://game-icons.net/1x1/delapouite/stabbed-note.html) by Delapouite for Bounty~~
+- [Two coins](https://game-icons.net/1x1/delapouite/two-coins.html) by Delapoite for Bounty
 - [Burning book](https://game-icons.net/1x1/lorc/burning-book.html) by Lorc for Burning Desire
 - [Anvil impact](https://game-icons.net/1x1/lorc/anvil-impact.html) by Lorc for Fresh Forged
 
-### Tile Improvements icon
+### Tile Improvements icons
 
-- [Mountain cave](https://game-icons.net/1x1/delapouite/mountain-cave.html) by Delapouite for Murals
+- ~~[Mountain cave](https://game-icons.net/1x1/delapouite/mountain-cave.html) by Delapouite for Murals~~
+- [Large paint brush](https://game-icons.net/1x1/delapouite/large-paint-brush.html) by Delapouite for Murals
   - The pixel art of the overworld sprite is made by myself based on Ivory sprite, feel free to use it.
 
-### Unused icons
+### Unused or abandoned icons
 
 - [Cotton flower](https://game-icons.net/1x1/delapouite/cotton-flower.html) by Delapouite for Whims
 - [Coffee pot](https://game-icons.net/1x1/delapouite/coffee-pot.html) by Delapouite for Cafe
 - [Hamburger](https://game-icons.net/1x1/delapouite/hamburger.html) by Delapouite for Fast Food Chains
 - [Divided square](https://game-icons.net/1x1/skoll/divided-square.html) by Skoll for Omni Station
+- [Dripping honey](https://game-icons.net/1x1/lorc/dripping-honey.html) by Lorc for Honey Palace
+- [Paint roller](https://game-icons.net/1x1/delapouite/paint-roller.html) by Delapouite for Mural Walls
+- [Easel](https://game-icons.net/1x1/caro-asercion/easel.html) by Caro Asercion for Art Studio
