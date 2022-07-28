@@ -48,8 +48,10 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 ### Tile Improvements icons
 
 - ~~[Mountain cave](https://game-icons.net/1x1/delapouite/mountain-cave.html) by Delapouite for Murals~~
-- [Large paint brush](https://game-icons.net/1x1/delapouite/large-paint-brush.html) by Delapouite for Murals
+- ~~[Large paint brush](https://game-icons.net/1x1/delapouite/large-paint-brush.html) by Delapouite for Murals~~
+- Murals icon are made by myself.
   - The pixel art of the overworld sprite is made by myself based on Ivory sprite, feel free to use it.
+
 
 ### Unused or abandoned icons
 
