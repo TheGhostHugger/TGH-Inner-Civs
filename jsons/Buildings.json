@@ -13,6 +13,7 @@
 		"name": "Beehive",
 		"replaces": "Granary",
 		"uniqueTo": "The Pollens",
+		"cost": 75,
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
