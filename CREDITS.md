@@ -30,12 +30,12 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 ### Building icons
 
 - [Crypt entrance](https://game-icons.net/1x1/delapouite/crypt-entrance.html) by Delapouite for Silk Gate
-- [Carousel](https://game-icons.net/1x1/delapouite/carousel.html) by Delapouite for Amusement Park
 - [Furnace](https://game-icons.net/1x1/delapouite/furnace.html) by Delapouite for Furnace
 - [Cauldron](https://game-icons.net/1x1/darkzaitzev/cauldron.html) by DarkZaitzev for Alchemy
 - [Tavern sign](https://game-icons.net/1x1/delapouite/tavern-sign.html) by Delapouite for Tavern
 - [H2O](https://game-icons.net/1x1/delapouite/h2o.html) by Delapouite for Water Research Facility
 - [Beehive](https://game-icons.net/1x1/delapouite/beehive.html) by Delapouite for Beehive
+- [Book cover](https://game-icons.net/1x1/lorc/book-cover.html) by Lorc for Storyteller's Hut
 
 ### Unit Promotion icons
 
@@ -62,3 +62,4 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Dripping honey](https://game-icons.net/1x1/lorc/dripping-honey.html) by Lorc for Honey Palace
 - [Paint roller](https://game-icons.net/1x1/delapouite/paint-roller.html) by Delapouite for Mural Walls
 - [Easel](https://game-icons.net/1x1/caro-asercion/easel.html) by Caro Asercion for Art Studio
+- [Carousel](https://game-icons.net/1x1/delapouite/carousel.html) by Delapouite for Amusement Park

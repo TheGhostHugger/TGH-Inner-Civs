@@ -24,5 +24,14 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Amusement Park",
+		"replaces": "Stadium",
+		"uniqueTo": "The Spectrals",
+		"happiness": 4,
+		"requiredBuilding": "Theatre",
+		"uniques": ["[+1 Gold] per [2] population [in this city]"],
+		"requiredTech": "Refrigeration"
 	}
 ]

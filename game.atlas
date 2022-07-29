@@ -81,16 +81,23 @@ BuildingIcons/Silk Gate
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Tavern
+BuildingIcons/Storyteller's Hut
   rotate: false
   xy: 1300, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Tavern
+  rotate: false
+  xy: 1300, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Water Research Facility
   rotate: false
-  xy: 1624, 148
+  xy: 1624, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -118,42 +125,42 @@ NationIcons/Drake
   index: -1
 NationIcons/The Beakers
   rotate: false
-  xy: 1300, 40
+  xy: 1408, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Knights
   rotate: false
-  xy: 1408, 148
+  xy: 1408, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Pollens
   rotate: false
-  xy: 1408, 40
+  xy: 1516, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Silks
   rotate: false
-  xy: 1516, 148
+  xy: 1516, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Spectrals
   rotate: false
-  xy: 1516, 40
+  xy: 1624, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Whims
   rotate: false
-  xy: 1624, 40
+  xy: 1732, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
