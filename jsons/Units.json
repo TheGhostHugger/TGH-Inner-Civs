@@ -95,5 +95,21 @@
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "RV Wayfinder",
+		"uniqueTo": "The Beakers",
+		"replaces": "Battleship",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 55,
+		"rangedStrength": 55,
+		"range": 4,
+		"cost": 375,
+		"requiredResource": "Oil",
+		"requiredTech": "Electronics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["[RV Wayfinder] ability", "Indirect Fire"],
+		"attackSound": "shipguns"
 	}
 ]

@@ -31,22 +31,6 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Water Research Facility",
-		"replaces": "Hydro Plant",
-		"uniqueTo": "The Beakers",
-		"requiredResource": "Aluminum",
-		"hurryCostModifier": 0,
-		"maintenance": 3,
-		"uniques": [
-			"[+1 Production] from [River] tiles [in this city]",
-			"[+1 Science] from [River] tiles [in this city]",
-			"[+1 Science] from [Water] tiles [in this city]",
-			"[+1 Science] from [Oasis] tiles [in this city]",
-			"[+1 Science] from [Fountain of Youth] tiles [in this city]"
-		],
-		"requiredTech": "Electricity"
-	},
-	{
 		"name": "Tavern",
 		"replaces": "Barracks",
 		"uniqueTo": "The Knights",

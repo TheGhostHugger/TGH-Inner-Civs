@@ -76,28 +76,28 @@ BuildingIcons/Omni Station
   index: -1
 BuildingIcons/Silk Gate
   rotate: false
-  xy: 1084, 40
+  xy: 1192, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Storyteller's Hut
   rotate: false
-  xy: 1300, 148
+  xy: 1300, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 1300, 40
+  xy: 1408, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Water Research Facility
   rotate: false
-  xy: 1624, 40
+  xy: 1732, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -125,42 +125,42 @@ NationIcons/Drake
   index: -1
 NationIcons/The Beakers
   rotate: false
-  xy: 1408, 148
+  xy: 1408, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Knights
   rotate: false
-  xy: 1408, 40
+  xy: 1516, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Pollens
   rotate: false
-  xy: 1516, 148
+  xy: 1516, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Silks
   rotate: false
-  xy: 1516, 40
+  xy: 1624, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Spectrals
   rotate: false
-  xy: 1624, 148
+  xy: 1624, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Whims
   rotate: false
-  xy: 1732, 148
+  xy: 1732, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -200,16 +200,23 @@ UnitIcons/Honey Soldier
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/RV Wayfinder
+  rotate: false
+  xy: 1084, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Sniper
   rotate: false
-  xy: 1192, 148
+  xy: 1192, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spider Ranger
   rotate: false
-  xy: 1192, 40
+  xy: 1300, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

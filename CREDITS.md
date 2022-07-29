@@ -26,6 +26,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Flamethrower](https://game-icons.net/1x1/delapouite/flamethrower.html) by Delapouite for Flamethrower
 - [Cloaked figure on horseback](https://game-icons.net/1x1/caro-asercion/cloaked-figure-on-horseback.html) by Caro Asercion for Glory Knight
 - [Eye target](https://game-icons.net/1x1/delapouite/eye-target.html) by Delapoite for Sniper
+- RV Wayfinder is made by The Ghost Hugger
 
 ### Building icons
 
@@ -33,7 +34,6 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Furnace](https://game-icons.net/1x1/delapouite/furnace.html) by Delapouite for Furnace
 - [Cauldron](https://game-icons.net/1x1/darkzaitzev/cauldron.html) by DarkZaitzev for Alchemy
 - [Tavern sign](https://game-icons.net/1x1/delapouite/tavern-sign.html) by Delapouite for Tavern
-- [H2O](https://game-icons.net/1x1/delapouite/h2o.html) by Delapouite for Water Research Facility
 - [Beehive](https://game-icons.net/1x1/delapouite/beehive.html) by Delapouite for Beehive
 - [Book cover](https://game-icons.net/1x1/lorc/book-cover.html) by Lorc for Storyteller's Hut
 
@@ -49,9 +49,8 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 
 - ~~[Mountain cave](https://game-icons.net/1x1/delapouite/mountain-cave.html) by Delapouite for Murals~~
 - ~~[Large paint brush](https://game-icons.net/1x1/delapouite/large-paint-brush.html) by Delapouite for Murals~~
-- Murals icon are made by myself.
-  - The pixel art of the overworld sprite is made by myself based on Ivory sprite, feel free to use it.
-
+- Murals icon are made by The Ghost Hugger
+  - The pixel art of the overworld sprite is made by myself based on Ivory sprite, feel free to use it
 
 ### Unused or abandoned icons
 
@@ -63,3 +62,4 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Paint roller](https://game-icons.net/1x1/delapouite/paint-roller.html) by Delapouite for Mural Walls
 - [Easel](https://game-icons.net/1x1/caro-asercion/easel.html) by Caro Asercion for Art Studio
 - [Carousel](https://game-icons.net/1x1/delapouite/carousel.html) by Delapouite for Amusement Park
+- [H2O](https://game-icons.net/1x1/delapouite/h2o.html) by Delapouite for Water Research Facility
