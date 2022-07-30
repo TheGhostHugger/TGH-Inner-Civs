@@ -214,5 +214,39 @@
 			{"text": "A scary dragon"}
 		],
 		"cities": ["Fireheart","Blazelane","Gigascale","Fearforce","Tormento","Bigclaw","Lastden","Bigchomp","Flygoo","Dramega","Haxeeraz","Firestream","Scaldvilla"]
+	},
+	{
+		"name": "The Rotors",
+		"leaderName": "Lester",
+		"outerColor": [45, 41, 38],
+		"innerColor": [233, 75, 60],
+		"preferredVictoryType": "Domination",
+		"startBias": ["Hill"],
+		
+		"neutralHello": "Any necessary discussion?",
+		"hateHello": "Interesting that you're here.",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": " ",
+		
+		"declaringWar": "There are some theories that I needed to test if they're right or wrong. Well, you're a good test subject, I apologize for that.",
+		"attacked": "Interesting war declaration, guess who's gonna survive?",
+		"defeated": "If I have hands, I would salute you, great conqueror!",
+		"introduction": "My name is Lester. It is an interesting pleasure to meet you.",
+		
+		"tradeRequest": "I've carefully calculated this offer to be beneficial for both of us.",
+		
+		"uniqueName": "War Science",
+		"uniques": [
+			"[+2 Science] from every [Strategic resource]",
+			"[+2 Science] from all [Barracks] buildings",
+			"[+2 Science] from all [Stable] buildings",
+			"[+2 Science] from all [Armory] buildings",
+			"[+2 Science] from all [Military Academy] buildings"
+		],
+		"_civilopediaText": [
+			{"text": "A silly pencil"}
+		],
+		"cities": ["Rotorfort"]
 	}
 ]
