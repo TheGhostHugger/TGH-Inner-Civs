@@ -97,7 +97,7 @@ BuildingIcons/Tavern
   index: -1
 BuildingIcons/Water Research Facility
   rotate: false
-  xy: 1732, 40
+  xy: 1840, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -144,23 +144,30 @@ NationIcons/The Pollens
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Silks
+NationIcons/The Rotors
   rotate: false
   xy: 1624, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Spectrals
+NationIcons/The Silks
   rotate: false
   xy: 1732, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/The Spectrals
+  rotate: false
+  xy: 1732, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Whims
   rotate: false
-  xy: 1840, 148
+  xy: 1840, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
