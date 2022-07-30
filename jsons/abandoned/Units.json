@@ -13,5 +13,22 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Floral Scout",
+		"uniqueTo": "The Spectrals",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"attackSound": "nonmetalhit",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"upgradesTo": "Archer",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
+		"promotions": ["Ignore terrain cost", "Scouting I"],
+		"_civilopediaText": [
+			{"text": "Unique Scout who fonds of flowers."}
+		]
 	}
 ]

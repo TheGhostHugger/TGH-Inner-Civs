@@ -29,5 +29,11 @@
     "uniques": [
       "Can see over obstacles"
     ]
+  },
+  {
+    "name": "[Phantom] ability",
+    "uniques": [
+      "Invisible to non-adjacent units"
+    ]
   }
 ]

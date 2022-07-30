@@ -22,11 +22,11 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 
 - [Spider](https://game-icons.net/1x1/carl-olsen/spider-alt.html) by Carl Olsen for Spider Ranger
 - [Bee](https://game-icons.net/1x1/lorc/bee.html) by Lorc for Honey Soldier
-- [Sunflower](https://game-icons.net/1x1/delapouite/sunflower.html) by Delapouite for Floral Scout
 - [Flamethrower](https://game-icons.net/1x1/delapouite/flamethrower.html) by Delapouite for Flamethrower
 - [Cloaked figure on horseback](https://game-icons.net/1x1/caro-asercion/cloaked-figure-on-horseback.html) by Caro Asercion for Glory Knight
 - [Eye target](https://game-icons.net/1x1/delapouite/eye-target.html) by Delapoite for Sniper
 - RV Wayfinder is made by The Ghost Hugger
+- [Ghost](https://www.svgrepo.com/svg/192067/ghost) from Svgrepo (CC0) for Phantom
 
 ### Building icons
 
@@ -63,3 +63,4 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Easel](https://game-icons.net/1x1/caro-asercion/easel.html) by Caro Asercion for Art Studio
 - [Carousel](https://game-icons.net/1x1/delapouite/carousel.html) by Delapouite for Amusement Park
 - [H2O](https://game-icons.net/1x1/delapouite/h2o.html) by Delapouite for Water Research Facility
+- [Sunflower](https://game-icons.net/1x1/delapouite/sunflower.html) by Delapouite for Floral Scout

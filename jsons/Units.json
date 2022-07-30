@@ -1,22 +1,5 @@
 [
 	{
-		"name": "Floral Scout",
-		"uniqueTo": "The Spectrals",
-		"unitType": "Scout",
-		"replaces": "Scout",
-		"attackSound": "nonmetalhit",
-		"movement": 2,
-		"strength": 5,
-		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
-		"upgradesTo": "Archer",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
-		"promotions": ["Ignore terrain cost", "Scouting I"],
-		"_civilopediaText": [
-			{"text": "Unique Scout who fonds of flowers."}
-		]
-	},
-	{
 		"name": "Spider Ranger",
 		"uniqueTo": "The Silks",
 		"unitType": "Mounted",
@@ -111,5 +94,18 @@
 		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["[RV Wayfinder] ability", "Indirect Fire"],
 		"attackSound": "shipguns"
+	},
+	{
+		"name": "Phantom",
+		"uniqueTo": "The Spectrals",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost", "[Phantom] ability"],
+		"attackSound": "nonmetalhit"
 	}
 ]
