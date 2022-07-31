@@ -25,7 +25,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Flamethrower](https://game-icons.net/1x1/delapouite/flamethrower.html) by Delapouite for Flamethrower
 - [Cloaked figure on horseback](https://game-icons.net/1x1/caro-asercion/cloaked-figure-on-horseback.html) by Caro Asercion for Glory Knight
 - ~~[Eye target](https://game-icons.net/1x1/delapouite/eye-target.html) by Delapoite for Sniper~~
-- [Sniper]() from Svgrepo (CC0) for Sniper
+- [Sniper](https://www.svgrepo.com/svg/213664/sniper) from Svgrepo (CC0) for Sniper
 - RV Wayfinder is made by The Ghost Hugger
 - [Ghost](https://www.svgrepo.com/svg/192067/ghost) from Svgrepo (CC0) for Phantom
 
