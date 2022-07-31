@@ -218,8 +218,8 @@
 	{
 		"name": "The Rotors",
 		"leaderName": "Lester",
-		"outerColor": [129, 88, 84],
-		"innerColor": [249, 235, 222],
+		"outerColor": [25, 25, 25],
+		"innerColor": [189, 143, 77],
 		"preferredVictoryType": "Domination",
 		"startBias": ["Hill"],
 		
