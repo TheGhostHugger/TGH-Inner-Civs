@@ -1,166 +1,180 @@
 
 game.png
-size: 2048, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Alchemy
   rotate: false
-  xy: 4, 148
+  xy: 4, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Amusement Park
   rotate: false
-  xy: 4, 40
+  xy: 4, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Art Studio
   rotate: false
-  xy: 112, 40
+  xy: 4, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Beehive
   rotate: false
-  xy: 220, 148
+  xy: 112, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cafe
   rotate: false
-  xy: 328, 40
+  xy: 112, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fast Food Chains
   rotate: false
-  xy: 544, 148
+  xy: 112, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Furnace
   rotate: false
-  xy: 760, 148
+  xy: 220, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Honey Palace
   rotate: false
-  xy: 868, 148
+  xy: 436, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mural Walls
   rotate: false
-  xy: 976, 148
+  xy: 328, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Omni Station
   rotate: false
-  xy: 1084, 148
+  xy: 544, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Silk Gate
   rotate: false
-  xy: 1192, 40
+  xy: 544, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Storyteller's Hut
   rotate: false
-  xy: 1408, 148
+  xy: 544, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Synthesized Garden
+  rotate: false
+  xy: 652, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 1408, 40
+  xy: 760, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Water Research Facility
   rotate: false
-  xy: 1732, 40
+  xy: 976, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Murals
   rotate: false
-  xy: 976, 40
+  xy: 436, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Desion
   rotate: false
-  xy: 436, 148
+  xy: 220, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Drake
   rotate: false
-  xy: 436, 40
+  xy: 328, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Beakers
   rotate: false
-  xy: 1516, 148
+  xy: 868, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Knights
   rotate: false
-  xy: 1516, 40
+  xy: 652, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Pollens
   rotate: false
-  xy: 1624, 148
+  xy: 760, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Rotors
+  rotate: false
+  xy: 868, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Silks
   rotate: false
-  xy: 1624, 40
+  xy: 976, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Spectrals
   rotate: false
-  xy: 1732, 148
+  xy: 760, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Whims
   rotate: false
-  xy: 1840, 148
+  xy: 1084, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -174,84 +188,91 @@ TileSets/FantasyHex/Tiles/Murals
   index: -1
 UnitIcons/Flamethrower
   rotate: false
-  xy: 544, 40
+  xy: 220, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Floral Scout
   rotate: false
-  xy: 652, 148
+  xy: 328, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Glory Knight
   rotate: false
-  xy: 760, 40
+  xy: 328, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Honey Soldier
   rotate: false
-  xy: 868, 40
+  xy: 544, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Phantom
   rotate: false
-  xy: 1084, 40
+  xy: 652, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/RV Wayfinder
   rotate: false
-  xy: 1192, 148
+  xy: 436, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sniper
   rotate: false
-  xy: 1300, 148
+  xy: 652, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spider Ranger
   rotate: false
-  xy: 1300, 40
+  xy: 760, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Warcopter
+  rotate: false
+  xy: 868, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Arachnid's Instinct
   rotate: false
-  xy: 112, 148
+  xy: 112, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bounty
   rotate: false
-  xy: 220, 40
+  xy: 220, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Burning Desire
   rotate: false
-  xy: 328, 148
+  xy: 4, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Fresh Forged
   rotate: false
-  xy: 652, 40
+  xy: 436, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

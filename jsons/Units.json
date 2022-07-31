@@ -107,5 +107,19 @@
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "[Phantom] ability"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Warcopter",
+		"uniqueTo": "The Rotors",
+		"replaces": "Helicopter Gunship",
+		"unitType": "Helicopter",
+		"movement": 6,
+		"strength": 54,
+		"cost": 425,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "[2] additional attacks per turn"],
+		"attackSound": "machinegun"
 	}
 ]
