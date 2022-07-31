@@ -29,6 +29,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Sniper]() from Svgrepo (CC0) for Sniper
 - RV Wayfinder is made by The Ghost Hugger
 - [Ghost](https://www.svgrepo.com/svg/192067/ghost) from Svgrepo (CC0) for Phantom
+- [Helicopter](https://www.svgrepo.com/svg/183210/helicopter) from Svgrepo (CC0) for Helicopter
 
 ### Building icons
 
