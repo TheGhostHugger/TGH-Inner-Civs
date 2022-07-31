@@ -114,7 +114,7 @@
 		"uniqueName": "Meaning of Life",
 		"uniques": [
 			"Receive free [Great Artist] when you discover [Philosophy]",
-			"[+50]% Yield from every [Great Improvements]"
+			"[+25]% Yield from every [Great Improvements]"
 		],
 		"_civilopediaText": [
 			{"text": "A human"}
@@ -177,7 +177,7 @@
 		"uniqueName": "Adventurer's Guild",
 		"uniques": [
 			"Starts with [Iron Working]",
-			"[-50]% Gold cost of upgrading <for [Military] units>"
+			"[-25]% Gold cost of upgrading <for [Military] units>"
 		],
 		"_civilopediaText": [
 			{"text": "A knight pen"}
