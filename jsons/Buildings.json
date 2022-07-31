@@ -69,5 +69,18 @@
 			"[+1 Happiness] per [10] population [in this city]"
 		],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "Synthesized Garden",
+		"replaces": "Garden",
+		"uniqueTo": "The Rotors",
+		"uniques": [
+			"[+25]% Great Person generation [in this city]",
+			"Must be next to [Fresh water]",
+			"[+25]% [Science] [in this city]"
+		],
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Theology"
 	}
 ]
