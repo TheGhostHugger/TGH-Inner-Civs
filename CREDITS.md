@@ -17,6 +17,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Heart burn](https://game-icons.net/1x1/lorc/heartburn.html) by Lorc for Drake, Hatred's empire
 - [Fizzing flask](https://game-icons.net/1x1/lorc/fizzing-flask.html) by Lorc for The Beakers, Chrome's empire
 - [Winged sword](https://game-icons.net/1x1/lorc/winged-sword.html) by Lorc for The Knights, Sid's empire
+- [Pencil](https://www.svgrepo.com/svg/7477/pencil) from Svgrepo (CC0) for The Rotors, Lester's empire
 
 ### Unit icons
 
