@@ -68,3 +68,6 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Carousel](https://game-icons.net/1x1/delapouite/carousel.html) by Delapouite for Amusement Park
 - [H2O](https://game-icons.net/1x1/delapouite/h2o.html) by Delapouite for Water Research Facility
 - [Sunflower](https://game-icons.net/1x1/delapouite/sunflower.html) by Delapouite for Floral Scout
+- [Coffee](https://www.svgrepo.com/svg/70083/coffee) from Svgrepo (CC0) for Coffee Joint
+- [Rabbit](https://www.svgrepo.com/svg/113250/rabbit) from Svgrepo (CC0) for D'Latte
+- [Magician](https://www.svgrepo.com/svg/1512/magician) from Svgrepo (CC0) for Fancy House
