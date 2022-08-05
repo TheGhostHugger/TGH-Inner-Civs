@@ -71,16 +71,29 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Synthesized Garden",
-		"replaces": "Garden",
+		"name": "Fancy House",
+		"replaces": "Opera House",
+		"uniqueTo": "D'Latte",
+		"culture": 4,
+		"gold": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Overseer Station",
+		"replaces": "Courthouse",
 		"uniqueTo": "The Rotors",
+		"maintenance": 4,
+		"science": 3,
+		"hurryCostModifier": 50,
 		"uniques": [
-			"[+25]% Great Person generation [in this city]",
-			"Must be next to [Fresh water]",
-			"[+25]% [Science] [in this city]"
+			"Remove extra unhappiness from annexed cities",
+			"Can only be built [in annexed cities]",
+			"New [Military] units start with [5] Experience [in all cities]"
 		],
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"requiredTech": "Theology"
+		"requiredTech": "Mathematics"
 	}
 ]

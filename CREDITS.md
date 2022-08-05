@@ -39,7 +39,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Tavern sign](https://game-icons.net/1x1/delapouite/tavern-sign.html) by Delapouite for Tavern
 - [Beehive](https://game-icons.net/1x1/delapouite/beehive.html) by Delapouite for Beehive
 - [Book cover](https://game-icons.net/1x1/lorc/book-cover.html) by Lorc for Storyteller's Hut
-- [Indoor garden](https://www.svgrepo.com/svg/62492/indoor-garden) from Svgrepo (CC0) for Synthesized Garden
+- [Watchtower](https://game-icons.net/1x1/delapouite/watchtower.html) by Delapouite for Overseer Station
 
 ### Unit Promotion icons
 
@@ -71,3 +71,4 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Coffee](https://www.svgrepo.com/svg/70083/coffee) from Svgrepo (CC0) for Coffee Joint
 - [Rabbit](https://www.svgrepo.com/svg/113250/rabbit) from Svgrepo (CC0) for D'Latte
 - [Magician](https://www.svgrepo.com/svg/1512/magician) from Svgrepo (CC0) for Fancy House
+- [Indoor garden](https://www.svgrepo.com/svg/62492/indoor-garden) from Svgrepo (CC0) for Synthesized Garden
