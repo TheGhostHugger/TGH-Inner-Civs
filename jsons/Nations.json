@@ -218,31 +218,32 @@
 	{
 		"name": "The Rotors",
 		"leaderName": "Lester",
-		"outerColor": [25, 25, 25],
-		"innerColor": [189, 143, 77],
+		"outerColor": [212, 81, 19],
+		"innerColor": [129, 52, 5],
 		"preferredVictoryType": "Domination",
 		"startBias": ["Hill"],
 		
 		"neutralHello": "Any necessary discussion?",
-		"hateHello": "Interesting that you're here.",
+		"hateHello": "You're here? Interesting.",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": " ",
 		
 		"declaringWar": "There are some theories that I needed to test if they're right or wrong. Well, you're a good test subject, I apologize for that.",
-		"attacked": "Interesting war declaration, guess who's gonna survive?",
+		"attacked": "War declaration? I wonder how's this gonna turn out in the end.",
 		"defeated": "If I have hands, I would salute you, great conqueror!",
 		"introduction": "My name is Lester. It is an interesting pleasure to meet you.",
 		
 		"tradeRequest": "I've carefully calculated this offer to be beneficial for both of us.",
 		
-		"uniqueName": "War Science",
+		"uniqueName": "Field Experiment",
 		"uniques": [
 			"[+2 Science] from every [Strategic resource]",
 			"[+2 Science] from all [Barracks] buildings",
 			"[+2 Science] from all [Stable] buildings",
 			"[+2 Science] from all [Armory] buildings",
-			"[+2 Science] from all [Military Academy] buildings"
+			"[+2 Science] from all [Military Academy] buildings",
+			"\"Borrows\" city names from other civilizations in the game"
 		],
 		"_civilopediaText": [
 			{"text": "A silly pencil"}
