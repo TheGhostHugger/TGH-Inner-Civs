@@ -13,7 +13,8 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Honeycomb](https://game-icons.net/1x1/lorc/honeycomb.html) by Lorc for The Pollens, Hanny's empire
 - [Self love](https://game-icons.net/1x1/lorc/self-love.html) by Lorc for Desion, A's empire
 - [Heart wings](https://game-icons.net/1x1/delapouite/heart-wings.html) by Delapouite for The Spectrals, Purplus's empire
-- [Zigzag cage](https://game-icons.net/1x1/lorc/zigzag-cage.html) by Lorc for The Silks, Pita's empire
+- ~~[Zigzag cage](https://game-icons.net/1x1/lorc/zigzag-cage.html) by Lorc for The Silks, Pita's empire~~
+- [Spider web web](https://www.svgrepo.com/svg/307550/spider-web-web) from Svgrepo (CC0) for The Silks, Pita's empire
 - [Heart burn](https://game-icons.net/1x1/lorc/heartburn.html) by Lorc for Drake, Hatred's empire
 - [Fizzing flask](https://game-icons.net/1x1/lorc/fizzing-flask.html) by Lorc for The Beakers, Chrome's empire
 - [Winged sword](https://game-icons.net/1x1/lorc/winged-sword.html) by Lorc for The Knights, Sid's empire

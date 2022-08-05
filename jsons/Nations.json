@@ -32,8 +32,8 @@
 	{
 		"name": "The Silks",
 		"leaderName": "Pita",
-		"outerColor": [249, 56, 34],
-		"innerColor": [253, 210, 14],
+		"outerColor": [211, 63, 73],
+		"innerColor": [215, 192, 208],
 		"preferredVictoryType": "Neutral",
 		"startBias": ["Forest"],
 		
