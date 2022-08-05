@@ -39,7 +39,7 @@
 		"uniques": [
 			"New [Military] units start with [15] Experience [in this city]", 
 			"Destroyed when the city is captured",
-			"All newly-trained [non-air] units [in this city] receive the [Bounty] promotion"
+			"All newly-trained [Land] units [in this city] receive the [Bounty] promotion"
 		],
 		"requiredTech": "Bronze Working"
 	},
