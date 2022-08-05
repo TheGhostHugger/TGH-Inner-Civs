@@ -87,7 +87,7 @@
 		"replaces": "Courthouse",
 		"uniqueTo": "The Rotors",
 		"maintenance": 4,
-		"science": 3,
+		"science": 2,
 		"hurryCostModifier": 50,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
