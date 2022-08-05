@@ -63,8 +63,8 @@
 	{
 		"name": "The Pollens",
 		"leaderName": "Hanny",
-		"outerColor": [218, 160, 61],
-		"innerColor": [97, 98, 71],
+		"outerColor": [251, 176, 55],
+		"innerColor": [236, 117, 5],
 		"preferredVictoryType": "Diplomatic",
 		"startBias": ["Avoid [Coast]"],
 		
