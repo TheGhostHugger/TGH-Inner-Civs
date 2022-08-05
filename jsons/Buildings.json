@@ -5,7 +5,7 @@
 		"uniqueTo": "The Silks",
 		"culture": 1,
 		"production": 2,
-		"cost": 40,
+		"cost": 35,
 		"maintenance": 1,
 		"hurryCostModifier": 40
 	},
