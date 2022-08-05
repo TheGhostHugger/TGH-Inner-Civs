@@ -9,8 +9,9 @@
 		"neutralHello": "Good morning!",
 		"hateHello": "Good morning...",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"Whoa! What is this place?",
+		"startIntroPart2": "Err, let me look up A and Lester's guideline to handle this situation...\"",
+		"_startIntroPart2": "Oh no, unhappy people. Umm, let me help you...\"",
 		
 		"declaringWar": "I'm sorry but, I have to remove you from this plane of existence. Sorry again!",
 		"attacked": "D-do you think I'm not kind enough? Why, why?!",
@@ -40,8 +41,8 @@
 		"neutralHello": "Anything you want, captain?",
 		"hateHello": "Hmm?",
 		
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"Huh, I haven't woke up yet?",
+		"startIntroPart2": "I hope Stella doing just fine, while I'll probably going out to experience a realistic lucid dream right now.\"",
 		
 		"declaringWar": "I hereby apologize, but you're in our way! Prepare yourselves!",
 		"attacked": "Haha, what a surprise! Well, I'm looking forward for you losing this!",
@@ -64,18 +65,18 @@
 		"name": "The Pollens",
 		"leaderName": "Hanny",
 		"outerColor": [251, 176, 55],
-		"innerColor": [236, 117, 5],
+		"innerColor": [201, 99, 4],
 		"preferredVictoryType": "Diplomatic",
 		"startBias": ["Avoid [Coast]"],
 		
 		"neutralHello": "What's up!",
 		"hateHello": "There are no free honey for you!",
 		
-		"startIntroPart1": " ",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"Wh-wha! A-am I dreaming?",
+		"startIntroPart2": "Maybe with this, I can have a lot of friends, while having Pita and Stella with me~\"",
 		
-		"declaringWar": "I'm sorry, but your presence distrupts our ecosystem. Please die!",
-		"attacked": "Are you kidding? Hehe, let me tell you, you won't win this!",
+		"declaringWar": "I-I'm sorry, b-but your presence distrupts our e-ecosystem. P-please die!",
+		"attacked": "A-are you kidding? L-let me tell you, y-you won't win this!",
 		"defeated": "H-hehehehe, h-hehehehe, h-hehehehehehe! Y-you f-fought so well! I-I give up!",
 		"introduction": "Hehe, my name is Hanny! Here, have some honey, those are free!",
 		
@@ -87,7 +88,7 @@
 			"[+1 Gold] from [Luxury resource] tiles [in all cities connected to capital]"
 		],
 		"_civilopediaText": [
-			{"text": "Empire with spiders."}
+			{"text": "Empire with bee."}
 		],
 		"cities": ["Quinnsdale","Hannimoon","Hornet","Hivvy","Sticken","Aromaroove","Marigold","Sparkluna","Dualtenna","Sweetviel","Wingbeet"]
 	},
@@ -98,18 +99,18 @@
 		"innerColor": [199, 211, 212],
 		"preferredVictoryType": "Cultural",
 		
-		"neutralHello": "Hello there, stranger!",
-		"hateHello": "Get to the point, stranger",
+		"neutralHello": "Hello there... stranger.",
+		"hateHello": "Get to the point... stranger.",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"Of course... I'm still here...",
+		"startIntroPart2": "Maybe this time... it'll better...\"",
 		
-		"declaringWar": "You're so annoying, we must get rid of you!",
-		"attacked": "Hmm, we see you're interested in war. Well, we hope it goes well for all of us.",
-		"defeated": "Alas, I've fallen, heh. I hope my empire is in better state in your hands.",
-		"introduction": "Hello there, my namecode is A. I don't reveal my name to strangers, heh",
+		"declaringWar": "You're so annoying... we must... get rid of you!",
+		"attacked": "Hmm, we see... you're interested in war. Well, we hope... it goes well for all of us...",
+		"defeated": "Alas, I've fallen... I hope my empire... is in better state... in your hands...",
+		"introduction": "Hello there... my namecode is A... I don't reveal my name to strangers...",
 		
-		"tradeRequest": "What do you think about our offer?",
+		"tradeRequest": "What do you think... about our offer?",
 		
 		"uniqueName": "Meaning of Life",
 		"uniques": [
@@ -133,13 +134,13 @@
 		"neutralHello": "Any topic?",
 		"hateHello": "On point!",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"Accident, time goes back.",
+		"startIntroPart2": "Regardless, research of new circumstances required!\"",
 		
 		"declaringWar": "You pest, we angry. Must exterminate!",
 		"attacked": "You kidding? Guess, you'll vanish!",
 		"defeated": "You conqueror. I'm amazed. Take care.",
-		"introduction": "Name's Chrome, Beakers' leader. Apologize, dislikes chatter.",
+		"introduction": "Name's Chrome, The Beakers' leader. Apologize, dislikes chatter.",
 		
 		"tradeRequest": "Trade agreement, conclude?",
 		
@@ -161,13 +162,12 @@
 		"outerColor": [16, 24, 32],
 		"innerColor": [254, 231, 21],
 		"preferredVictoryType": "Domination",
-		"startBias": ["Hill"],
 		
 		"neutralHello": "Huh, yeah?",
 		"hateHello": "Huh? Its you again.",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"Gah, I've woken up to another ridiculous civilization universe simulation again.",
+		"startIntroPart2": "Time to make the most out of it!\"",
 		
 		"declaringWar": "It is unfortunate of how profitable it is due to many bounties placed on you. Sorry, but you must die!",
 		"attacked": "My next target attacks me, huh? Well, this will surely become an interesting match!",
@@ -197,15 +197,15 @@
 		"neutralHello": "What do you want?",
 		"hateHello": "What is it, enemy?",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"I've finally, awoken, at last!",
+		"startIntroPart2": "This world will be mine, A, you know it!\"",
 		
 		"declaringWar": "Heheheheh, your pitiful army won't stand up against mine. Prepare to die!",
-		"attacked": "Foolish, foolish! Do you think you have what it takes on Drake? I don't believe you, hah!",
+		"attacked": "Foolish, foolish! Do you think you have what it takes on Drake? I don't believe you!",
 		"defeated": "Urgh, you, you! Gaaah, I surrender! You should be the dragon, not me!",
-		"introduction": "My name is Hatred of Drake. Be aware of your manners, otherwise I will strike you, hah!",
+		"introduction": "My name is Hatred! Be aware of your manners, otherwise I will strike you!",
 		
-		"tradeRequest": "Accept this proposal or else!",
+		"tradeRequest": "Accept this proposal if you want to be safe...",
 		
 		"uniqueName": "World Must Burn",
 		"uniques": [
@@ -220,16 +220,15 @@
 	{
 		"name": "The Rotors",
 		"leaderName": "Lester",
-		"outerColor": [212, 81, 19],
+		"outerColor": [237, 111, 52],
 		"innerColor": [129, 52, 5],
 		"preferredVictoryType": "Domination",
-		"startBias": ["Hill"],
 		
 		"neutralHello": "Any necessary discussion?",
 		"hateHello": "You're here? Interesting.",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": " ",
+		"startIntroPart1": "\"Time traveling idea successful!",
+		"startIntroPart2": "Now plan to conduct experiments with these hopeful subjects!\"",
 		
 		"declaringWar": "There are some theories that I needed to test if they're right or wrong. Well, you're a good test subject, I apologize for that.",
 		"attacked": "War declaration? I wonder how's this gonna turn out in the end.",
