@@ -119,7 +119,8 @@
 		"_civilopediaText": [
 			{"text": "A human"}
 		],
-		"cities": ["D'Heart","D'Fortre","D'Huggist","D'Luvland","D'Mogus","D'Phante","D'Flufe","D'Birb","D'Cateer","D'Wabbs","D'Agon","D'Ester","D'Id","D'Una","D'Plus","D'Code","D'Fani","D'Rene","D'Camu","D'Sartr","D'Aria","D'Maw","D'Ribbee","D'Whims","D'Chomp"]
+		"cities": ["Camunn","Sartra","Kann","Kafko","Humy","Waldeer","Nietzmee","Haritzu","Palacio","Alwatts","Jungee","Rossbo","Masloo"],
+		"_cities": ["D'Heart","D'Fortre","D'Huggist","D'Luvland","D'Mogus","D'Phante","D'Flufe","D'Birb","D'Cateer","D'Wabbs","D'Agon","D'Ester","D'Id","D'Una","D'Plus","D'Code","D'Fani","D'Rene","D'Camu","D'Sartr","D'Aria","D'Maw","D'Ribbee","D'Whims","D'Chomp"]
 	},
 	{
 		"name": "The Beakers",
@@ -151,7 +152,8 @@
 		"_civilopediaText": [
 			{"text": "A beaker"}
 		],
-		"cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester","Hydroflume"]
+		"cities": ["Firstvial","Newtfounn","Esterport","Galilies","Steinee","Curei","Dirwaan","Fardusk","Kopirnek","Linn","Sonide","Hawquinn"],
+		"_cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester","Hydroflume"]
 	},
 	{
 		"name": "The Knights",
@@ -172,7 +174,7 @@
 		"defeated": "You're so good at this, I feel honored to be beaten by your nation.",
 		"introduction": "My name is Sid of the Knights. We're running knight errands daily, join while you can!",
 		
-		"tradeRequest": "Take this offer bud, it'll be worthwhile for both of us.",
+		"tradeRequest": "Take this offer, it'll be worthwhile for both of us.",
 		
 		"uniqueName": "Adventurer's Guild",
 		"uniques": [
