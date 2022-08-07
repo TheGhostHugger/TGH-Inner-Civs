@@ -183,7 +183,7 @@
 		"uniqueName": "Adventurer's Guild",
 		"uniques": [
 			"Starts with [Iron Working]",
-			"[-25]% Gold cost of upgrading <for [Military] units>"
+			"[-20]% Gold cost of upgrading <for [Military] units>"
 		],
 		"_civilopediaText": [
 			{"text": "A knight pen"}
@@ -196,7 +196,6 @@
 		"outerColor": [45, 41, 38],
 		"innerColor": [233, 75, 60],
 		"preferredVictoryType": "Domination",
-		"startBias": ["Hill"],
 		
 		"neutralHello": "What do you want?",
 		"hateHello": "What is it, enemy?",
@@ -263,6 +262,7 @@
 		"outerColor": [43, 71, 37],
 		"innerColor": [196, 222, 191],
 		"preferredVictoryType": "Domination",
+		"startBias": ["Hill"],
 		
 		"neutralHello": "Yeah, yeah? ^^",
 		"hateHello": "I'm waiting the winds to start... -//-",
