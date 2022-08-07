@@ -7,12 +7,8 @@
     "culture": 1,
 		"techRequired": "Philosophy",
     "uniques": [
-      "[+1 Culture] for each adjacent [Academy]",
-      "[+1 Culture] for each adjacent [Landmark]",
-      "[+1 Culture] for each adjacent [Customs house]",
-      "[+1 Culture] for each adjacent [Manufactory]",
-      "[+1 Culture] for each adjacent [Holy site]",
-      "[+2 Culture] for each adjacent [Citadel]",
+      "[+1 Culture] for each adjacent [Great Improvement]",
+      "[+1 Culture] for each adjacent [Citadel]",
       "[+1 Gold] <after discovering [Flight]>",
       "Pillaging this improvement yields approximately [+18 Gold]"
     ],
