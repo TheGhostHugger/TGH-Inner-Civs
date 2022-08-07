@@ -90,35 +90,35 @@ BuildingIcons/Overseer Station
   index: -1
 BuildingIcons/Silk Gate
   rotate: false
-  xy: 652, 148
+  xy: 760, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Storyteller's Hut
   rotate: false
-  xy: 652, 40
+  xy: 760, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Synthesized Garden
   rotate: false
-  xy: 760, 148
+  xy: 868, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 868, 256
+  xy: 976, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Water Research Facility
   rotate: false
-  xy: 1084, 256
+  xy: 976, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -160,49 +160,49 @@ NationIcons/Drake
   index: -1
 NationIcons/The Beakers
   rotate: false
-  xy: 976, 364
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/The Knights
-  rotate: false
   xy: 760, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Pollens
+NationIcons/The Cottons
   rotate: false
   xy: 868, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Rotors
+NationIcons/The Knights
   rotate: false
   xy: 976, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Silks
+NationIcons/The Pollens
   rotate: false
   xy: 1084, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Spectrals
+NationIcons/The Rotors
   rotate: false
   xy: 868, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Whims
+NationIcons/The Silks
   rotate: false
-  xy: 1192, 364
+  xy: 976, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Spectrals
+  rotate: false
+  xy: 1084, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -242,37 +242,44 @@ UnitIcons/Honey Soldier
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phantom
+UnitIcons/Pegasus
   rotate: false
   xy: 760, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/RV Wayfinder
+UnitIcons/Phantom
   rotate: false
   xy: 544, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sniper
+UnitIcons/RV Wayfinder
   rotate: false
-  xy: 760, 256
+  xy: 652, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Spider Ranger
+UnitIcons/Sniper
   rotate: false
   xy: 868, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Spider Ranger
+  rotate: false
+  xy: 652, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Warcopter
   rotate: false
-  xy: 976, 148
+  xy: 1192, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

@@ -256,5 +256,37 @@
 			{"text": "A silly pencil"}
 		],
 		"cities": ["Rotorfort"]
+	},
+	{
+		"name": "The Cottons",
+		"leaderName": "Catherine the Whims",
+		"outerColor": [43, 71, 37],
+		"innerColor": [196, 222, 191],
+		"preferredVictoryType": "Domination",
+		
+		"neutralHello": "Yeah, yeah? ^^",
+		"hateHello": "I'm waiting the winds to start... -//-",
+		
+		"startIntroPart1": "\"Aaaa! I've blown away by the wind too much!",
+		"startIntroPart2": "Now I have no lead these people to greater civilization!\"",
+		
+		"declaringWar": "Bad winds have been storming around your nation, the only way to prevent it... is to attack you!",
+		"attacked": "Aww, you just have to attack me, wouldn't you?",
+		"defeated": "Ouchie, that hurts.",
+		"introduction": "Hi hi hi! My name is Catherine! I hope wind of fortune blows in your way as well!",
+		
+		"tradeRequest": "Accept this deal while it's worthwhile!",
+		
+		"uniqueName": "When Wind Blows",
+		"uniques": [
+			"[+1] Movement <for [Civilian] units> <while the empire is happy> <when not at war>",
+			"[+1] Movement <for [Military] units> <while the empire is happy> <when at war>",
+			"[+1] Movement <for [All] units> <during a Golden Age>",
+			"\"Borrows\" city names from other civilizations in the game"
+		],
+		"_civilopediaText": [
+			{"text": "A silly fluff ball"}
+		],
+		"cities": ["Windveil"]
 	}
 ]

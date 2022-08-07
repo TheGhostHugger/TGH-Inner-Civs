@@ -95,5 +95,16 @@
 			"New [Military] units start with [5] Experience [in all cities]"
 		],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Synthesized Garden",
+		"replaces": "Garden",
+		"uniqueTo": "The Cottons",
+		"uniques": [
+			"[+50]% Great Person generation [in this city]"
+		],
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Theology"
 	}
 ]

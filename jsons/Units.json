@@ -121,5 +121,25 @@
 		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
 			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "[2] additional attacks per turn"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Pegasus",
+		"uniqueTo": "The Cottons",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"promotions": ["[Pegasus] ability"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>"
+		],
+		"attackSound": "horse"
 	}
 ]
