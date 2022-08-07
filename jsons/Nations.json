@@ -9,16 +9,20 @@
 		"neutralHello": "Good morning!",
 		"hateHello": "Good morning...",
 		
-		"startIntroPart1": "\"Whoa! What is this place?",
-		"startIntroPart2": "Err, let me look up A and Lester's guideline to handle this situation...\"",
-		"_startIntroPart2": "Oh no, unhappy people. Umm, let me help you...\"",
+		"startIntroPart1": "\"Whoa! What is this place? Err, let me look up",
+		"startIntroPart2": "A and Lester's guideline to handle this situation...\"",
+		"__startIntroPart2": "Oh no, unhappy people. Umm, let me help you...\"",
 		
-		"declaringWar": "I'm sorry but, I have to remove you from this plane of existence. Sorry again!",
-		"attacked": "D-do you think I'm not kind enough? Why, why?!",
-		"defeated": "M-maybe I should've trained myself better for this, h-hehe",
+		"declaringWar": "I'm very very sorry. But my people keep complaining about your 'apparent' existence. I hope its for the best!",
+		"_declaringWar": "I'm sorry but, I have to remove you from this plane of existence. Sorry again!",
+		"attacked": "You think my kindness is not good enough? Fine, I'll fight in your betrayal!",
+		"_attacked": "D-do you think I'm not kind enough? Why, why?!",
+		"defeated": "I hope you can keep my people happy better than me...",
+		"_defeated": "M-maybe I should've trained myself better for this, h-hehe",
 		"introduction": "Hiya! My name is Purplus, I hope we'll be friends!",
 		
-		"tradeRequest": "Hehehe, this trade should be beneficial for both of us!",
+		"tradeRequest": "This trade proposal should be beneficial for both of us!",
+		"_tradeRequest": "Hehehe, this trade should be beneficial for both of us!",
 		
 		"uniqueName": "Heavenly Society",
 		"uniques": [
@@ -41,8 +45,8 @@
 		"neutralHello": "Anything you want, captain?",
 		"hateHello": "Hmm?",
 		
-		"startIntroPart1": "\"Huh, I haven't woke up yet?",
-		"startIntroPart2": "I hope Stella doing just fine, while I'll probably going out to experience a realistic lucid dream right now.\"",
+		"startIntroPart1": "\"Huh, I haven't woke up yet? I hope Stella doing just fine,",
+		"startIntroPart2": "while I'll probably going out to experience a realistic lucid dream right now.\"",
 		
 		"declaringWar": "I hereby apologize, but you're in our way! Prepare yourselves!",
 		"attacked": "Haha, what a surprise! Well, I'm looking forward for you losing this!",
@@ -72,8 +76,8 @@
 		"neutralHello": "What's up!",
 		"hateHello": "There are no free honey for you!",
 		
-		"startIntroPart1": "\"Wh-wha! A-am I dreaming?",
-		"startIntroPart2": "Maybe with this, I can have a lot of friends, while having Pita and Stella with me~\"",
+		"startIntroPart1": "\"Wh-what!? A-am I dreaming?! Maybe with this,",
+		"startIntroPart2": "I can have a lot of friends, while having Pita and Stella with me~\"",
 		
 		"declaringWar": "I-I'm sorry, b-but your presence distrupts our e-ecosystem. P-please die!",
 		"attacked": "A-are you kidding? L-let me tell you, y-you won't win this!",
@@ -106,7 +110,7 @@
 		"startIntroPart2": "Maybe this time... it'll better...\"",
 		
 		"declaringWar": "You're so annoying... we must... get rid of you!",
-		"attacked": "Hmm, we see... you're interested in war. Well, we hope... it goes well for all of us...",
+		"attacked": "Hmm, we see... you're interested in war. Well, I hope... it goes well for all of us...",
 		"defeated": "Alas, I've fallen... I hope my empire... is in better state... in your hands...",
 		"introduction": "Hello there... my namecode is A... I don't reveal my name to strangers...",
 		
@@ -115,7 +119,7 @@
 		"uniqueName": "Meaning of Life",
 		"uniques": [
 			"Receive free [Great Artist] when you discover [Philosophy]",
-			"[+25]% Yield from every [Great Improvements]"
+			"[+50]% Yield from every [Great Improvements]"
 		],
 		"_civilopediaText": [
 			{"text": "A human"}
@@ -166,12 +170,12 @@
 		"neutralHello": "Huh, yeah?",
 		"hateHello": "Huh? Its you again.",
 		
-		"startIntroPart1": "\"Gah, I've woken up to another ridiculous civilization universe simulation again.",
+		"startIntroPart1": "\"Gah, I've woken up to another ridiculous civilization universe again.",
 		"startIntroPart2": "Time to make the most out of it!\"",
 		
 		"declaringWar": "It is unfortunate of how profitable it is due to many bounties placed on you. Sorry, but you must die!",
 		"attacked": "My next target attacks me, huh? Well, this will surely become an interesting match!",
-		"defeated": "You're so good at this, I feel honored to be beaten by your nation.",
+		"defeated": "You're so good at this, I feel honored to be defeated.",
 		"introduction": "My name is Sid of the Knights. We're running knight errands daily, join while you can!",
 		
 		"tradeRequest": "Take this offer, it'll be worthwhile for both of us.",
@@ -198,14 +202,14 @@
 		"hateHello": "What is it, enemy?",
 		
 		"startIntroPart1": "\"I've finally, awoken, at last!",
-		"startIntroPart2": "This world will be mine, A, you know it!\"",
+		"startIntroPart2": "This world will be mine, A, you'll know it!\"",
 		
 		"declaringWar": "Heheheheh, your pitiful army won't stand up against mine. Prepare to die!",
 		"attacked": "Foolish, foolish! Do you think you have what it takes on Drake? I don't believe you!",
 		"defeated": "Urgh, you, you! Gaaah, I surrender! You should be the dragon, not me!",
 		"introduction": "My name is Hatred! Be aware of your manners, otherwise I will strike you!",
 		
-		"tradeRequest": "Accept this proposal if you want to be safe...",
+		"tradeRequest": "Accept this proposal if you want to be safe.",
 		
 		"uniqueName": "World Must Burn",
 		"uniques": [
@@ -230,10 +234,12 @@
 		"startIntroPart1": "\"Time traveling idea successful!",
 		"startIntroPart2": "Now plan to conduct experiments with these hopeful subjects!\"",
 		
-		"declaringWar": "There are some theories that I needed to test if they're right or wrong. Well, you're a good test subject, I apologize for that.",
+		"_declaringWar": "There are some theories that I needed to test if they're right or wrong. Well, you're a good test subject, I apologize for that.",
+		"declaringWar": "Apologize, I've tracked your 'bad' decisions and its proven to be beneficial for declaring war on you right now. I hope you're prepared.",
 		"attacked": "War declaration? I wonder how's this gonna turn out in the end.",
 		"defeated": "If I have hands, I would salute you, great conqueror!",
-		"introduction": "My name is Lester. It is an interesting pleasure to meet you.",
+		"introduction": "My name is Lester. I hope you're willing to be our test subject for tests I'm about to conduct.",
+		"_introduction": "My name is Lester. It is an interesting pleasure to meet you.",
 		
 		"tradeRequest": "I've carefully calculated this offer to be beneficial for both of us.",
 		
