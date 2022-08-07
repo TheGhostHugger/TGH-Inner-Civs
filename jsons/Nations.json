@@ -264,8 +264,8 @@
 		"preferredVictoryType": "Domination",
 		"startBias": ["Hill"],
 		
-		"neutralHello": "Yeah, yeah? ^^",
-		"hateHello": "I'm waiting the winds to start... -//-",
+		"neutralHello": "Yeah, yeah?",
+		"hateHello": "I'm waiting the winds to start...",
 		
 		"startIntroPart1": "\"Aaaa! I've blown away by the wind too much!",
 		"startIntroPart2": "Now I have no lead these people to greater civilization!\"",
