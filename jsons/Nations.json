@@ -65,6 +65,7 @@
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
+		"_cityThemeNaming": "spider",
 		"cities": ["Starweb","Ariavill","Taranteem","Dewmar","Preeyon","Mawwlov","Speeneer","Dibblees","Rednet","Gazeknit","Silklisk","Marws","D'Thread"]
 	},
 	{
@@ -96,6 +97,7 @@
 		"_civilopediaText": [
 			{"text": "Empire with bee."}
 		],
+		"_cityThemeNaming": "bee and honey :)",
 		"cities": ["Quinnsdale","Hannimoon","Hornet","Hivvy","Sticken","Aromaroove","Marigold","Sparkluna","Dualtenna","Sweetviel","Wingbeet"]
 	},
 	{
@@ -126,6 +128,7 @@
 		"_civilopediaText": [
 			{"text": "A human"}
 		],
+		"_cityThemeNaming": "philosoper",
 		"cities": ["Camunn","Sartra","Kann","Kafko","Humy","Waldeer","Nietzmee","Haritzu","Palacio","Alwatts","Jungee","Rossbo","Masloo"],
 		"_cities": ["D'Heart","D'Fortre","D'Huggist","D'Luvland","D'Mogus","D'Phante","D'Flufe","D'Birb","D'Cateer","D'Wabbs","D'Agon","D'Ester","D'Id","D'Una","D'Plus","D'Code","D'Fani","D'Rene","D'Camu","D'Sartr","D'Aria","D'Maw","D'Ribbee","D'Whims","D'Chomp"]
 	},
@@ -159,6 +162,7 @@
 		"_civilopediaText": [
 			{"text": "A beaker"}
 		],
+		"_cityThemeNaming": "scientists",
 		"cities": ["Firstvial","Newtfounn","Esterport","Galilies","Steinee","Curei","Dirwaan","Fardusk","Kopirnek","Linn","Sonide","Hawquinn"],
 		"_cities": ["Firstvial","Yriset","Esterport","Soiver","Udeka","Zroburg","Egoridge","Zaacester","Hydroflume"]
 	},
@@ -190,6 +194,7 @@
 		"_civilopediaText": [
 			{"text": "A knight pen"}
 		],
+		"_cityThemeNaming": "idk ><",
 		"cities": ["Titansrow","Swordsbottom","Arkdale","Velas","Phaross","Ekabus","Waybury","Budmouth","Adagate","Xegow"]
 	},
 	{
@@ -220,6 +225,7 @@
 		"_civilopediaText": [
 			{"text": "A scary dragon"}
 		],
+		"_cityThemeNaming": "dragon and heat related stuff",
 		"cities": ["Fireheart","Blazelane","Gigascale","Fearforce","Tormento","Bigclaw","Lastden","Bigchomp","Flygoo","Dramega","Haxeeraz","Firestream","Scaldvilla"]
 	},
 	{
@@ -326,6 +332,7 @@
 		"_civilopediaText": [
 			{"text": "A silly big back-mouthed fellow."}
 		],
+		"_cityThemeNaming": "animal names",
 		"cities": ["Silkmaw", "Hawkpeck", "Deerhorn", "Lionhowl", "Owlgrip", "Horsestep", "Foxcurl", "Catpurr", "Sharkfang", "Komodobite"]
 	},
 	{
