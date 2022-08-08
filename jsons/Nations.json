@@ -27,7 +27,9 @@
 		"uniqueName": "Heavenly Society",
 		"uniques": [
 			"[+20]% Production when constructing [Happiness] buildings [in all non-occupied cities]",
-			"[+20]% [Production] [in all non-occupied cities] <during a Golden Age>"
+			"[+20]% [Production] [in all non-occupied cities] <during a Golden Age>",
+			"[+20]% [Gold] [in all non-occupied cities] <during a Golden Age>",
+			"Gain [10] Influence with a [Phantom] gift to a City-State"
 		],
 		"_civilopediaText": [
 			{"text": "A ghost who's assigned to guard the gates to Desion Land. Bue due to lack of visitors, she decided to took an offer to be a leader, somehow!"}
@@ -264,7 +266,7 @@
 		"preferredVictoryType": "Domination",
 		"startBias": ["Grassland"],
 		
-		"neutralHello": "Yeah, yeah?",
+		"neutralHello": "Yeah, yeah!",
 		"hateHello": "I'm waiting the winds to start...",
 		
 		"startIntroPart1": "\"Aaaa! I've blown away by the wind too much!",

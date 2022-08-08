@@ -46,7 +46,7 @@
   {
 		"name": "[Sharpshooter] ability",
 		"uniques": [
-			"[+33]% Strength <vs [Wounded] units>",
+			"[+25]% Strength <vs [Wounded] units>",
       "Can move after attacking"
     ]
 	}
