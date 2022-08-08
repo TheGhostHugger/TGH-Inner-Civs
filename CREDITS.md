@@ -20,6 +20,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Winged sword](https://game-icons.net/1x1/lorc/winged-sword.html) by Lorc for The Knights, Sid's empire
 - [Pencil](https://www.svgrepo.com/svg/7477/pencil) from Svgrepo (CC0) for The Rotors, Lester's empire
 - [Cotton flower](https://game-icons.net/1x1/delapouite/cotton-flower.html) by Delapouite for The Cottons, Catherine's empire.
+- [Rose](https://www.svgrepo.com/svg/157190/rose) from Svgrepo (CC0) for The Maws, Stella's empire.
 
 ### Unit icons
 
@@ -33,6 +34,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Ghost](https://www.svgrepo.com/svg/192067/ghost) from Svgrepo (CC0) for Phantom
 - [Helicopter](https://www.svgrepo.com/svg/183210/helicopter) from Svgrepo (CC0) for Helicopter
 - [Pegasus](https://game-icons.net/1x1/skoll/pegasus.html) by Skoll for Pegasus
+- [Reticule](https://game-icons.net/1x1/lorc/reticule.html) by Lorc for Sharpshooter
 
 ### Building icons
 
@@ -44,6 +46,7 @@ Unless otherwise specified, all the following are from [Game-icons.net](https://
 - [Book cover](https://game-icons.net/1x1/lorc/book-cover.html) by Lorc for Storyteller's Hut
 - [Watchtower](https://game-icons.net/1x1/delapouite/watchtower.html) by Delapouite for Overseer Station
 - [Indoor garden](https://www.svgrepo.com/svg/62492/indoor-garden) from Svgrepo (CC0) for Synthesized Garden
+- [Archery target](https://game-icons.net/1x1/lorc/archery-target.html) by Lorc for Archery School.
 
 ### Unit Promotion icons
 
