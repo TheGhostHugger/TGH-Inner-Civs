@@ -317,8 +317,7 @@
 		"uniqueName": "Flower Crown",
 		"uniques": [
 			"[+15]% Strength <for [Ranged] units> <when attacking>",
-			"Receive free [Sharpshooter] when you discover [Guilds]",
-			"\"Borrows\" city names from other civilizations in the game"
+			"Receive free [Sharpshooter] when you discover [Guilds]"
 		],
 		"_uniques": [
 			"Receive free [Sharpshooter] when you discover [Construction]",
@@ -327,7 +326,7 @@
 		"_civilopediaText": [
 			{"text": "A silly big back-mouthed fellow."}
 		],
-		"cities": ["Silkmaw"]
+		"cities": ["Silkmaw", "Hawkpeck", "Deerhorn", "Lionhowl", "Owlgrip", "Horsestep", "Foxcurl", "Catpurr", "Sharkfang", "Komodobite"]
 	},
 	{
 		"name": "D'Latte",
