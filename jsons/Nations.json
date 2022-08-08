@@ -339,15 +339,15 @@
 		"neutralHello": "Want a cup of coffee?",
 		"hateHello": "I don't want to see you...",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "\"What is this place?",
+		"startIntroPart2": "Whatever, as long I get to serve people coffee, I'm happy!\"",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
+		"declaringWar": "I've been feeling this energized after drinking this coffee. The next thing I want, is to attack you!",
+		"attacked": "We're here just for peace, but if you're going to attack, we'll defend!",
+		"defeated": "Maybe I shouldn't serve so much coffee, heh~",
 		"introduction": "Greetings, D'Latte accepts your presence with pleasure!",
 		
-		"tradeRequest": "",
+		"tradeRequest": "This trade includes a free coffee. Hmm~",
 		
 		"uniqueName": "Coffee Joints",
 		"uniques": [
