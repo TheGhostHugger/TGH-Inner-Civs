@@ -183,7 +183,7 @@
 		"uniqueName": "Adventurer's Guild",
 		"uniques": [
 			"Starts with [Iron Working]",
-			"[-20]% Gold cost of upgrading <for [Military] units>"
+			"[-15]% Gold cost of upgrading <for [Military] units>"
 		],
 		"_civilopediaText": [
 			{"text": "A knight pen"}
@@ -212,7 +212,7 @@
 		
 		"uniqueName": "World Must Burn",
 		"uniques": [
-			"[+20]% Strength <when above [75] HP> <when attacking>",
+			"[+15]% Strength <for [Military] units> <when above [75] HP>",
 			"[+1] Movement <for [Siege] units>"
 		],
 		"_civilopediaText": [
@@ -262,7 +262,7 @@
 		"outerColor": [43, 71, 37],
 		"innerColor": [196, 222, 191],
 		"preferredVictoryType": "Domination",
-		"startBias": ["Hill"],
+		"startBias": ["Grassland"],
 		
 		"neutralHello": "Yeah, yeah?",
 		"hateHello": "I'm waiting the winds to start...",
@@ -281,12 +281,50 @@
 		"uniques": [
 			"[+1] Movement <for [Civilian] units> <while the empire is happy> <when not at war>",
 			"[+1] Movement <for [Military] units> <while the empire is happy> <when at war>",
-			"[+1] Movement <for [All] units> <during a Golden Age>",
 			"\"Borrows\" city names from other civilizations in the game"
 		],
 		"_civilopediaText": [
 			{"text": "A silly fluff ball"}
 		],
 		"cities": ["Windveil"]
+	},
+	{
+		"name": "The Maws",
+		"leaderName": "Stella",
+		"outerColor": [54, 49, 49],
+		"innerColor": [103, 149, 255],
+		"preferredVictoryType": "Domination",
+		"startBias": ["Hill"],
+		
+		"neutralHello": "You're not a spider, right?",
+		"hateHello": "There's no way you're the spider.",
+		
+		"startIntroPart1": "\"I cannot believe this...",
+		"startIntroPart2": "But for the spider, I'll do anything!\"",
+		
+		"denounce": "I suspect your malicious intentions. I'll make you pay!",
+		"afterPeace": "I hope the spider would approve of this peace treaty...",
+
+		"declaringWar": "For the sake of the spider, I hereby declare war on you!",
+		"attacked": "You just have to get in the way, aren't you? Well, good luck!",
+		"defeated": "Even in my defeat, I will search for you, my spider!",
+		"introduction": "You're not the spider aren't you? Sorry, I can't tell.",
+		
+		"tradeRequest": "I believe this trade will be worthwhile, please accept it.",
+		
+		"uniqueName": "Flower Crown",
+		"uniques": [
+			"[+15]% Strength <for [Ranged] units> <when attacking>",
+			"Receive free [Sharpshooter] when you discover [Guilds]",
+			"\"Borrows\" city names from other civilizations in the game"
+		],
+		"_uniques": [
+			"Receive free [Sharpshooter] when you discover [Construction]",
+			"[+33]% Production when constructing [All] units [in all cities] <during a Golden Age>"
+		],
+		"_civilopediaText": [
+			{"text": "A silly big back-mouthed fellow."}
+		],
+		"cities": ["Silkmaw"]
 	}
 ]

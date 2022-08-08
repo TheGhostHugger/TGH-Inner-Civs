@@ -106,5 +106,18 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredTech": "Theology"
+	},
+	{
+		"name": "Archery School",
+		"replaces": "Barracks",
+		"uniqueTo": "The Maws",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured",
+			"All newly-trained [{relevant} {Land}] units [in this city] receive the [Indirect Fire] promotion"
+		],
+		"requiredTech": "Bronze Working"
 	}
 ]

@@ -39,8 +39,15 @@
   {
 		"name": "[Pegasus] ability",
 		"uniques": [
-			"[+25]% Strength <when fighting in [Hill] tiles>",
+			"[+20]% Strength <when fighting in [Hill] tiles>",
 			"Double movement in [Hill]"
+    ]
+	},
+  {
+		"name": "[Sharpshooter] ability",
+		"uniques": [
+			"[+33]% Strength <vs [Wounded] units>",
+      "Can move after attacking"
     ]
 	}
 ]

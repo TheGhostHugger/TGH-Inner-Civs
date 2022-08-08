@@ -25,7 +25,7 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
-		"cost": 90,
+		"cost": 80,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"promotions": ["Shock I"],
@@ -40,12 +40,15 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 20,
-		"cost": 120,
+		"cost": 100,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": [
+			"Can move after attacking","No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>"
+		],
 		"promotions": ["Mobility"],
 		"attackSound": "horse"
 	},
@@ -141,5 +144,20 @@
 			"[-33]% Strength <vs cities> <when attacking>"
 		],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Sharpshooter",
+		"uniqueTo": "The Maws",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["[Sharpshooter] ability"],
+		"attackSound": "arrow"
 	}
 ]
