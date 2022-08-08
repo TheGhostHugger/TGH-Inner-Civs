@@ -62,70 +62,70 @@ BuildingIcons/Fast Food Chains
   index: -1
 BuildingIcons/Furnace
   rotate: false
-  xy: 328, 40
+  xy: 436, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Honey Palace
   rotate: false
-  xy: 544, 256
+  xy: 652, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mural Walls
   rotate: false
-  xy: 436, 40
+  xy: 544, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Omni Station
   rotate: false
-  xy: 652, 256
+  xy: 760, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Overseer Station
   rotate: false
-  xy: 760, 364
+  xy: 544, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Silk Gate
   rotate: false
-  xy: 652, 40
+  xy: 760, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Storyteller's Hut
   rotate: false
-  xy: 976, 364
+  xy: 760, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Synthesized Garden
   rotate: false
-  xy: 760, 40
+  xy: 868, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 868, 148
+  xy: 976, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Water Research Facility
   rotate: false
-  xy: 1300, 364
+  xy: 1084, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -139,7 +139,7 @@ ImprovementIcons/Coffee Joint
   index: -1
 ImprovementIcons/Murals
   rotate: false
-  xy: 544, 148
+  xy: 652, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -167,56 +167,56 @@ NationIcons/Drake
   index: -1
 NationIcons/The Beakers
   rotate: false
-  xy: 976, 256
+  xy: 1084, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Cottons
   rotate: false
-  xy: 1084, 364
+  xy: 868, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Knights
   rotate: false
-  xy: 868, 40
+  xy: 976, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Maws
   rotate: false
-  xy: 976, 148
+  xy: 1084, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Pollens
   rotate: false
-  xy: 1084, 256
+  xy: 1192, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Rotors
   rotate: false
-  xy: 1192, 364
+  xy: 976, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Silks
   rotate: false
-  xy: 976, 40
+  xy: 1084, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Spectrals
   rotate: false
-  xy: 1084, 148
+  xy: 1192, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -228,79 +228,86 @@ TileSets/FantasyHex/Tiles/Murals
   orig: 32, 28
   offset: 0, 0
   index: -1
-UnitIcons/Flamethrower
+UnitIcons/Fieldwright
   rotate: false
   xy: 328, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Floral Scout
+UnitIcons/Flamethrower
   rotate: false
   xy: 436, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Floral Scout
+  rotate: false
+  xy: 544, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Glory Knight
   rotate: false
-  xy: 436, 148
+  xy: 544, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Honey Soldier
   rotate: false
-  xy: 652, 364
+  xy: 436, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pegasus
   rotate: false
-  xy: 544, 40
+  xy: 652, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Phantom
   rotate: false
-  xy: 652, 148
+  xy: 760, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/RV Wayfinder
   rotate: false
-  xy: 760, 256
+  xy: 868, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sharpshooter
   rotate: false
-  xy: 868, 364
+  xy: 652, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sniper
   rotate: false
-  xy: 760, 148
+  xy: 868, 256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spider Ranger
   rotate: false
-  xy: 868, 256
+  xy: 976, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warcopter
   rotate: false
-  xy: 1192, 256
+  xy: 1300, 364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -328,7 +335,7 @@ UnitPromotionIcons/Burning Desire
   index: -1
 UnitPromotionIcons/Fresh Forged
   rotate: false
-  xy: 544, 364
+  xy: 328, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

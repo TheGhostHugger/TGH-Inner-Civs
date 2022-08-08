@@ -328,5 +328,36 @@
 			{"text": "A silly big back-mouthed fellow."}
 		],
 		"cities": ["Silkmaw"]
+	},
+	{
+		"name": "D'Latte",
+		"leaderName": "Amanda the Bunny",
+		"outerColor": [28, 10, 0],
+		"innerColor": [255, 196, 130],
+		"preferredVictoryType": "Cultural",
+		
+		"neutralHello": "Want a cup of coffee?",
+		"hateHello": "I don't want to see you...",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Greetings, D'Latte accepts your presence with pleasure!",
+		
+		"tradeRequest": "",
+		
+		"uniqueName": "Coffee Joints",
+		"uniques": [
+			"[+2 Happiness] from all [Culture] buildings",
+			"[+2 Happiness] from all [Food] buildings",
+			"[+10] HP when healing <within [2] tiles of a [Coffee Joint]>"
+		],
+		"_civilopediaText": [
+			{"text": "A silly rabbit"}
+		],
+		"cities": ["Mocha"]
 	}
 ]
