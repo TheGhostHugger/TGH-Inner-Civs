@@ -351,13 +351,16 @@
 		
 		"uniqueName": "Coffee Joints",
 		"uniques": [
-			"[+2 Happiness] from all [Culture] buildings",
-			"[+2 Happiness] from all [Food] buildings",
+			"[+1 Happiness] from all [Culture] buildings",
+			"[+1 Happiness] from all [Food] buildings",
 			"[+10] HP when healing <within [2] tiles of a [Coffee Joint]>"
 		],
 		"_civilopediaText": [
 			{"text": "A silly rabbit"}
 		],
-		"cities": ["Mocha"]
+		"_cityThemeNaming": "coffee names :)",
+		"cities": [
+			"Cappuccino", "Mocha", "Robusta", "Americano", "Espresso", "Doppio", "Cortado", "Lungo", "Macchiato", "Ristretto", "Espresso", "Affogato", "Galao"
+		]
 	}
 ]
