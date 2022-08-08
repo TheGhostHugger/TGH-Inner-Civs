@@ -288,13 +288,12 @@
 		"uniqueName": "When Wind Blows",
 		"uniques": [
 			"[+1] Movement <for [Civilian] units> <while the empire is happy> <when not at war>",
-			"[+1] Movement <for [Military] units> <while the empire is happy> <when at war>",
-			"\"Borrows\" city names from other civilizations in the game"
+			"[+1] Movement <for [Military] units> <while the empire is happy> <when at war>"
 		],
 		"_civilopediaText": [
 			{"text": "A silly fluff ball"}
 		],
-		"cities": ["Windveil"]
+		"cities": ["Windveil", "Turbinee", "Bigfan", "Aircond", "Candlee", "Paperlane", "Floatball", "Dandelix", "Windneon", "Sighaw"]
 	},
 	{
 		"name": "The Maws",
