@@ -166,5 +166,21 @@
 		"obsoleteTech": "Industrialization",
 		"promotions": ["[Sharpshooter] ability"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Fieldwright",
+		"uniqueTo": "D'Latte",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"promotions": ["[Fieldwright] ability"],
+		"attackSound": "metalhit"
 	}
 ]

@@ -49,5 +49,9 @@
 			"[+25]% Strength <vs [Wounded] units>",
       "Can move after attacking"
     ]
+	},
+  {
+		"name": "[Fieldwright] ability",
+		"uniques": ["Can build [Land] improvements on tiles"]
 	}
 ]

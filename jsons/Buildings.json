@@ -71,18 +71,6 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "Fancy House",
-		"replaces": "Opera House",
-		"uniqueTo": "D'Latte",
-		"culture": 4,
-		"gold": 3,
-		"specialistSlots": {"Artist": 1},
-		"hurryCostModifier": 10,
-		"requiredBuilding": "Amphitheater",
-		"requiredTech": "Acoustics",
-		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
 		"name": "Overseer Station",
 		"replaces": "Courthouse",
 		"uniqueTo": "The Rotors",
