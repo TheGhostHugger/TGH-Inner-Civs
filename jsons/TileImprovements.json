@@ -23,7 +23,7 @@
 		"techRequired": "Economics",
     "uniques": [
       "[+1 Gold] <after discovering [Electricity]>",
-      "[+1 Gold] <after discovering [Refrigation]>",
+      "[+1 Gold] <after discovering [Refrigeration]>",
       "Pillaging this improvement yields approximately [+20 Gold]"
     ],
     "shortcutKey": "F"
