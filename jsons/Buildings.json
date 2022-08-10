@@ -35,11 +35,10 @@
 		"replaces": "Barracks",
 		"uniqueTo": "The Knights",
 		"hurryCostModifier": 25,
-		"maintenance": 1,
+		"gold": 2,
 		"uniques": [
 			"New [Military] units start with [15] Experience [in this city]", 
-			"Destroyed when the city is captured",
-			"All newly-trained [Land] units [in this city] receive the [Bounty] promotion"
+			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Bronze Working"
 	},
