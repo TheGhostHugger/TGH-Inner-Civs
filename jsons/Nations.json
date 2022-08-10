@@ -318,8 +318,8 @@
 	{
 		"name": "The Maws",
 		"leaderName": "Stella",
-		"outerColor": [54, 49, 49],
-		"innerColor": [103, 149, 255],
+		"innerColor": [245, 184, 65],
+		"outerColor": [37, 36, 32],
 		"preferredVictoryType": "Domination",
 		"startBias": ["Hill"],
 		"favouredPolicy": "Autocracy",
