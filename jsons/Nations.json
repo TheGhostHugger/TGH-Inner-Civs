@@ -4,7 +4,8 @@
 		"leaderName": "Purplus",
 		"outerColor": [66, 32, 87],
 		"innerColor": [252, 249, 81],
-		"preferredVictoryType": "Neutral",
+		"preferredVictoryType": "Cultural",
+		"favouredPolicy": "Freedom",
 		
 		"neutralHello": "Good morning!",
 		"hateHello": "Good morning...",
@@ -28,7 +29,7 @@
 		"uniques": [
 			"[+20]% Production when constructing [Happiness] buildings [in all non-occupied cities]",
 			"[+20]% [Production] [in all non-occupied cities] <during a Golden Age>",
-			"[+20]% [Gold] [in all non-occupied cities] <during a Golden Age>",
+			"[+20]% [Culture] [in all non-occupied cities] <during a Golden Age>",
 			"Gain [10] Influence with a [Phantom] gift to a City-State"
 		],
 		"_civilopediaText": [
@@ -43,6 +44,7 @@
 		"innerColor": [215, 192, 208],
 		"preferredVictoryType": "Neutral",
 		"startBias": ["Forest"],
+		"favouredPolicy": "Order",
 		
 		"neutralHello": "Anything you want, captain?",
 		"hateHello": "Hmm?",
@@ -51,17 +53,22 @@
 		"startIntroPart2": "while I'll probably going out to experience a realistic lucid dream right now.\"",
 		
 		"declaringWar": "I hereby apologize, but you're in our way! Prepare yourselves!",
-		"attacked": "Haha, what a surprise! Well, I'm looking forward for you losing this!",
-		"defeated": "Hahaha! You fought this war very well! I, Pita, leader of The Silks, officially concedes.",
+		"attacked": "What a surprise! Well, I'm looking forward for this great fight!",
+		"_defeated": "Hahaha! You fought this war very well! I, Pita, leader of The Silks, officially concedes.",
+		"defeated": "\"You're doing great.\", say that to my dear Stella if you met her as well.",
 		"introduction": "My name's Pita, the Silks leader. I hope you're fine with me as a spider!",
 		
 		"tradeRequest": "I hope this nets profits for both of us.",
 		
-		"uniqueName": "Threads of Fate",
+		"uniqueName": "Silk's Territory",
+		"_uniqueName": "Threads of Fate",
 		"uniques": [
-			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]",
-			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]"
-	],
+			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]",
+			"Receive free [Worker] when you discover [The Wheel]"
+		],
+		"_uniques": [
+			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]"
+		],
 		"_civilopediaText": [
 			{"text": "Empire with spiders."}
 		],
@@ -75,6 +82,7 @@
 		"innerColor": [201, 99, 4],
 		"preferredVictoryType": "Diplomatic",
 		"startBias": ["Avoid [Coast]"],
+		"favouredPolicy": "Freedom",
 		
 		"neutralHello": "What's up!",
 		"hateHello": "There are no free honey for you!",
@@ -91,6 +99,10 @@
 		
 		"uniqueName": "Honey Capital",
 		"uniques": [
+			"[+1 Gold] from [Bonus resource] tiles [in all cities connected to capital]",
+			"[+1 Gold] from [Strategic resource] tiles [in all cities connected to capital]"
+		],
+		"_uniques": [
 			"[+1 Food] from [Luxury resource] tiles [in all cities]",
 			"[+1 Gold] from [Luxury resource] tiles [in all cities connected to capital]"
 		],
@@ -106,6 +118,7 @@
 		"outerColor": [96, 63, 131],
 		"innerColor": [199, 211, 212],
 		"preferredVictoryType": "Cultural",
+		"favouredPolicy": "Freedom",
 		
 		"neutralHello": "Hello there... stranger.",
 		"hateHello": "Get to the point... stranger.",
@@ -139,6 +152,7 @@
 		"innerColor": [173, 239, 209],
 		"preferredVictoryType": "Scientific",
 		"startBias": ["Coast"],
+		"favouredPolicy": "Freedom",
 		
 		"neutralHello": "Any topic?",
 		"hateHello": "On point!",
@@ -155,7 +169,7 @@
 		
 		"uniqueName": "Early Science Theory",
 		"uniques": [
-			"[+2 Science] from [Water] tiles [in all cities] <after discovering [Optics]>",
+			"[+2 Science] from [Water] tiles [in all cities]",
 			"Gain a free [Alchemy] [in capital] <after discovering [Writing]>",
 			"Gain a free [Observatory] [in capital] <after discovering [Astronomy]>"
 		],
@@ -172,8 +186,10 @@
 		"outerColor": [16, 24, 32],
 		"innerColor": [254, 231, 21],
 		"preferredVictoryType": "Domination",
+		"favouredPolicy": "Autocracy",
 		
-		"neutralHello": "Huh, yeah?",
+		"neutralHello": "Interested for a spar?",
+		"_neutralHello": "Huh, yeah?",
 		"hateHello": "Huh? Its you again.",
 		
 		"startIntroPart1": "\"Gah, I've woken up to another ridiculous civilization universe again.",
@@ -189,7 +205,7 @@
 		"uniqueName": "Adventurer's Guild",
 		"uniques": [
 			"Starts with [Iron Working]",
-			"[-15]% Gold cost of upgrading <for [Military] units>"
+			"[-20]% Gold cost of upgrading <for [Military] units>"
 		],
 		"_civilopediaText": [
 			{"text": "A knight pen"}
@@ -203,8 +219,10 @@
 		"outerColor": [45, 41, 38],
 		"innerColor": [233, 75, 60],
 		"preferredVictoryType": "Domination",
+		"favouredPolicy": "Autocracy",
 		
-		"neutralHello": "What do you want?",
+		"neutralHello": "Who awaken the beast?",
+		"_neutralHello": "What do you want?",
 		"hateHello": "What is it, enemy?",
 		
 		"startIntroPart1": "\"I've finally, awoken, at last!",
@@ -234,6 +252,7 @@
 		"outerColor": [237, 111, 52],
 		"innerColor": [129, 52, 5],
 		"preferredVictoryType": "Domination",
+		"favouredPolicy": "Autocracy",
 		
 		"neutralHello": "Any necessary discussion?",
 		"hateHello": "You're here? Interesting.",
@@ -271,6 +290,7 @@
 		"innerColor": [196, 222, 191],
 		"preferredVictoryType": "Domination",
 		"startBias": ["Grassland"],
+		"favouredPolicy": "Autocracy",
 		
 		"neutralHello": "Yeah, yeah!",
 		"hateHello": "I'm waiting the winds to start...",
@@ -302,6 +322,7 @@
 		"innerColor": [103, 149, 255],
 		"preferredVictoryType": "Domination",
 		"startBias": ["Hill"],
+		"favouredPolicy": "Autocracy",
 		
 		"neutralHello": "You're not a spider, right?",
 		"hateHello": "There's no way you're the spider.",
@@ -340,6 +361,7 @@
 		"outerColor": [28, 10, 0],
 		"innerColor": [255, 196, 130],
 		"preferredVictoryType": "Cultural",
+		"favouredPolicy": "Freedom",
 		
 		"neutralHello": "Want a cup of coffee?",
 		"hateHello": "I don't want to see you...",
@@ -357,7 +379,7 @@
 		"uniqueName": "Coffee Joints",
 		"uniques": [
 			"[+1 Happiness] from all [Culture] buildings",
-			"[+1 Happiness] from all [Food] buildings",
+			"[+1 Happiness] from all [Production] buildings",
 			"[+10] HP when healing <within [2] tiles of a [Coffee Joint]>"
 		],
 		"_civilopediaText": [
