@@ -63,8 +63,7 @@
 		"uniqueName": "Silk's Territory",
 		"_uniqueName": "Threads of Fate",
 		"uniques": [
-			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]",
-			"Receive free [Worker] when you discover [The Wheel]"
+			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]"
 		],
 		"_uniques": [
 			"[+10]% Production when constructing [All] buildings [in all cities connected to capital]"
@@ -83,6 +82,10 @@
 		"preferredVictoryType": "Diplomatic",
 		"startBias": ["Avoid [Coast]"],
 		"favouredPolicy": "Freedom",
+
+		"pita_interaction": {
+			"neutralHello": "Hi Pita!"
+		},
 		
 		"neutralHello": "What's up!",
 		"hateHello": "There are no free honey for you!",
@@ -167,7 +170,7 @@
 		
 		"tradeRequest": "Trade agreement, conclude?",
 		
-		"uniqueName": "Early Science Theory",
+		"uniqueName": "Liquidation",
 		"uniques": [
 			"[+2 Science] from [Water] tiles [in all cities]",
 			"Gain a free [Alchemy] [in capital] <after discovering [Writing]>",
@@ -237,7 +240,7 @@
 		
 		"uniqueName": "World Must Burn",
 		"uniques": [
-			"[+15]% Strength <for [Military] units> <when above [75] HP>",
+			"[+20]% Strength <for [Military] units> <when above [75] HP>",
 			"[+1] Movement <for [Siege] units>"
 		],
 		"_civilopediaText": [
@@ -323,6 +326,15 @@
 		"preferredVictoryType": "Domination",
 		"startBias": ["Hill"],
 		"favouredPolicy": "Autocracy",
+
+		"pita_interaction": {
+			"neutralHello": "What can I do for you, spider?",
+			"hateHello": "I'm sorry, spider...",
+			"declaringWar": "I'm very very sorry, spider. But your treachery leaves me no choice...",
+			"introduction": "Pita! Welcome to my territory!",
+			"attacked": "I'm going to cry, but that doesn't mean I won't defend myself...",
+			"defeated": "At least with this, I can stay on your side from now on, spider!"
+		},
 		
 		"neutralHello": "You're not a spider, right?",
 		"hateHello": "There's no way you're the spider.",
