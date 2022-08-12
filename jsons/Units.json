@@ -4,7 +4,7 @@
 		"uniqueTo": "The Silks",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
-		"movement": 3,
+		"movement": 2,
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
@@ -12,8 +12,7 @@
 		"obsoleteTech": "Chivalry",
 		"promotions": ["Arachnid's Instinct"],
 		"uniques": [
-			"Can move after attacking",
-			"[-33]% Strength <vs cities> <when attacking>"
+			"Ignores terrain cost"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
