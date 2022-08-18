@@ -4,7 +4,7 @@
 		"leaderName": "Purplus",
 		"outerColor": [66, 32, 87],
 		"innerColor": [252, 249, 81],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 		"favouredPolicy": "Freedom",
 		
 		"neutralHello": "Good morning!",
@@ -14,11 +14,13 @@
 		"startIntroPart2": "A and Lester's guideline to handle this situation...\"",
 		"__startIntroPart2": "Oh no, unhappy people. Umm, let me help you...\"",
 		
-		"declaringWar": "I'm very very sorry. But my people keep complaining about your 'apparent' existence. I hope its for the best!",
+		"__declaringWar": "I'm very very sorry. But my people keep complaining about your 'apparent' existence. I hope its for the best!",
+		"declaringWar": "I'm sorry, but your apparent existence makes me feel very upset. Prepare for war!",
 		"_declaringWar": "I'm sorry but, I have to remove you from this plane of existence. Sorry again!",
-		"attacked": "You think my kindness is not good enough? Fine, I'll fight in your betrayal!",
+		"attacked": "My creator might made me a peaceful ghost. But that doesn't mean I won't defend my nation!",
+		"__attacked": "You think my kindness is not good enough? Fine, I'll fight in your betrayal!",
 		"_attacked": "D-do you think I'm not kind enough? Why, why?!",
-		"defeated": "I hope you can keep my people happy better than me...",
+		"defeated": "I just hope you can keep my people happy better than me...",
 		"_defeated": "M-maybe I should've trained myself better for this, h-hehe",
 		"introduction": "Hiya! My name is Purplus, I hope we'll be friends!",
 		
@@ -27,6 +29,10 @@
 		
 		"uniqueName": "Heavenly Society",
 		"uniques": [
+			"Gain [10] Influence with a [Military] gift to a City-State",
+			"City-State territory always counts as friendly territory"
+		],
+		"_uniques": [
 			"[+20]% Production when constructing [Happiness] buildings [in all non-occupied cities]",
 			"[+20]% [Production] [in all non-occupied cities] <during a Golden Age>",
 			"[+20]% [Culture] [in all non-occupied cities] <during a Golden Age>",
@@ -42,7 +48,7 @@
 		"leaderName": "Pita",
 		"outerColor": [211, 63, 73],
 		"innerColor": [215, 192, 208],
-		"preferredVictoryType": "Neutral",
+		"preferredVictoryType": "Domination",
 		"startBias": ["Forest"],
 		"favouredPolicy": "Order",
 		
@@ -52,17 +58,24 @@
 		"startIntroPart1": "\"Huh, I haven't woke up yet? I hope Stella doing just fine,",
 		"startIntroPart2": "while I'll probably going out to experience a realistic lucid dream right now.\"",
 		
-		"declaringWar": "I hereby apologize, but you're in our way! Prepare yourselves!",
-		"attacked": "What a surprise! Well, I'm looking forward for this great fight!",
+		"declaringWar": "Are you scared of spiders? How about big ones? Well, I want to know!",
+		"_declaringWar": "I hereby apologize, but you're in our way! Prepare yourselves!",
+		"attacked": "Silk's empire are happy with your declaration of war, been looking forward to it!",
+		"_attacked": "What a surprise! Well, I'm looking forward for this great fight!",
 		"_defeated": "Hahaha! You fought this war very well! I, Pita, leader of The Silks, officially concedes.",
-		"defeated": "\"You're doing great.\", say that to my dear Stella if you met her as well.",
-		"introduction": "My name's Pita, the Silks leader. I hope you're fine with me as a spider!",
+		"defeated": "\"You're doing great.\", say that to my dear Stella, if you met her, please.",
+		"introduction": "My name's Pita, the Silks leader. I hope you're fine with me as a spider.",
 		
 		"tradeRequest": "I hope this nets profits for both of us.",
 		
 		"uniqueName": "Silk's Territory",
 		"_uniqueName": "Threads of Fate",
 		"uniques": [
+			"[+1 Food, +1 Production] from every [Camp]",
+			"[-33]% tile improvement construction time"
+		],
+
+		"to_op_uniques": [
 			"[+1 Production] from [Bonus resource] tiles [in all cities connected to capital]"
 		],
 		"_uniques": [
@@ -80,7 +93,7 @@
 		"outerColor": [251, 176, 55],
 		"innerColor": [201, 99, 4],
 		"preferredVictoryType": "Diplomatic",
-		"startBias": ["Avoid [Coast]"],
+		"startBias": ["Forest"],
 		"favouredPolicy": "Freedom",
 
 		"pita_interaction": {
@@ -93,15 +106,23 @@
 		"startIntroPart1": "\"Wh-what!? A-am I dreaming?! Maybe with this,",
 		"startIntroPart2": "I can have a lot of friends, while having Pita and Stella with me~\"",
 		
-		"declaringWar": "I-I'm sorry, b-but your presence distrupts our e-ecosystem. P-please die!",
-		"attacked": "A-are you kidding? L-let me tell you, y-you won't win this!",
-		"defeated": "H-hehehehe, h-hehehehe, h-hehehehehehe! Y-you f-fought so well! I-I give up!",
+		"_declaringWar": "I-I'm sorry, b-but your presence distrupts our e-ecosystem. P-please die!",
+		"declaringWar": "My instincts, I can't believe it, but now, I just want to erase you from existence!",
+		"_attacked": "A-are you kidding? L-let me tell you, y-you won't win this!",
+		"attacked": "Are you kidding me? Let me tell you, you won't win this!",
+		"_defeated": "H-hehehehe, h-hehehehe, h-hehehehehehe! Y-you f-fought so well! I-I give up!",
+		"defeated": "Pita, Stella and Catherine, I've failed. I've failed! I've failed!",
 		"introduction": "Hehe, my name is Hanny! Here, have some honey, those are free!",
 		
-		"tradeRequest": "C'mon, this is a beneficial trade, trust me!",
+		"tradeRequest": "This trade includes a free honey, because I'm charitable!",
+		"_tradeRequest": "C'mon, this is a beneficial trade, trust me!",
 		
 		"uniqueName": "Honey Capital",
 		"uniques": [
+			"[+1 Food] from [Forest] tiles without [Lumber mill] [in all cities]",
+			"Resting point for Influence with City-States is increased by [15]"
+		],
+		"__uniques": [
 			"[+1 Gold] from [Bonus resource] tiles [in all cities connected to capital]",
 			"[+1 Gold] from [Strategic resource] tiles [in all cities connected to capital]"
 		],
@@ -129,12 +150,18 @@
 		"startIntroPart1": "\"Of course... I'm still here...",
 		"startIntroPart2": "Maybe this time... it'll better...\"",
 		
-		"declaringWar": "You're so annoying... we must... get rid of you!",
-		"attacked": "Hmm, we see... you're interested in war. Well, I hope... it goes well for all of us...",
-		"defeated": "Alas, I've fallen... I hope my empire... is in better state... in your hands...",
-		"introduction": "Hello there... my namecode is A... I don't reveal my name to strangers...",
+		"declaringWar": "That empire of yours, I just want to see them... destroyed, that's all.",
+		"_declaringWar": "You're so annoying... we must... get rid of you!",
+		"attacked": "War is always what I wanted from the beginning. Thanks for making it easier for me, heheh.",
+		"_attacked": "Hmm, we see... you're interested in war. Well, I hope... it goes well for all of us...",
+		"__attacked": "Oh my gosh, all of the sudden, you make everything interesting!",
+		"defeated": "Hahahaha! You made me feel so happy! Congrats, my burden of living, finally be gone!",
+		"_defeated": "Alas, I've fallen... I hope my empire... is in better state... in your hands...",
+		"introduction": "My name is A, leader of Desion empire. I take no kindly to enemies, but I certain, you understand what I mean.",
+		"_introduction": "Hello there... my namecode is A... I don't reveal my name to strangers...",
 		
-		"tradeRequest": "What do you think... about our offer?",
+		"tradeRequest": "Do you think this is fair?",
+		"_tradeRequest": "What do you think... about our offer?",
 		
 		"uniqueName": "Meaning of Life",
 		"uniques": [
@@ -158,20 +185,27 @@
 		"favouredPolicy": "Freedom",
 		
 		"neutralHello": "Any topic?",
-		"hateHello": "On point!",
+		"hateHello": "On point.",
 		
 		"startIntroPart1": "\"Accident, time goes back.",
 		"startIntroPart2": "Regardless, research of new circumstances required!\"",
 		
 		"declaringWar": "You pest, we angry. Must exterminate!",
-		"attacked": "You kidding? Guess, you'll vanish!",
-		"defeated": "You conqueror. I'm amazed. Take care.",
+		"attacked": "War? Distruptive! Retailation awaits.",
+		"_attacked": "You kidding? Guess, you'll vanish!",
+		"defeated": "I'm disappointed. We hope, you'll do good.",
+		"_defeated": "You conqueror. I'm amazed. Take care.",
 		"introduction": "Name's Chrome, The Beakers' leader. Apologize, dislikes chatter.",
 		
 		"tradeRequest": "Trade agreement, conclude?",
 		
-		"uniqueName": "Liquidation",
+		"uniqueName": "National Water",
+		"_uniqueName": "Liquidation",
 		"uniques": [
+			"Gain a free [Lighthouse] [in all coastal cities]",
+			"[+2 Science] from [Water] tiles [in all cities]"
+		],
+		"_uniques": [
 			"[+2 Science] from [Water] tiles [in all cities]",
 			"Gain a free [Alchemy] [in capital] <after discovering [Writing]>",
 			"Gain a free [Observatory] [in capital] <after discovering [Astronomy]>"
@@ -198,17 +232,21 @@
 		"startIntroPart1": "\"Gah, I've woken up to another ridiculous civilization universe again.",
 		"startIntroPart2": "Time to make the most out of it!\"",
 		
-		"declaringWar": "It is unfortunate of how profitable it is due to many bounties placed on you. Sorry, but you must die!",
-		"attacked": "My next target attacks me, huh? Well, this will surely become an interesting match!",
-		"defeated": "You're so good at this, I feel honored to be defeated.",
-		"introduction": "My name is Sid of the Knights. We're running knight errands daily, join while you can!",
+		"declaringWar": "From a mile away, Sid wanted to continue his conquest on earth further. Well, that's the beginning of the story!",
+		"_declaringWar": "It is unfortunate of how profitable it is due to many bounties placed on you. Sorry, but you must die!",
+		"attacked": "My knights are ready, my sword is ready. What are you waiting for?",
+		"_attacked": "My next target attacks me, huh? Well, this will surely become an interesting match!",
+		"defeated": "Alas, The Knights has fallen. You're a better warrior than I am. I am honored.",
+		"_defeated": "You're so good at this, I feel honored to be defeated.",
+		"introduction": "My name is Sid. Mighty knight pen with a sword. I hope we'll become good rival!",
+		"_introduction": "My name is Sid of the Knights. We're running knight errands daily, join while you can!",
 		
 		"tradeRequest": "Take this offer, it'll be worthwhile for both of us.",
 		
 		"uniqueName": "Adventurer's Guild",
 		"uniques": [
 			"Starts with [Iron Working]",
-			"[-20]% Gold cost of upgrading <for [Military] units>"
+			"[-15]% Gold cost of upgrading <for [Military] units>"
 		],
 		"_civilopediaText": [
 			{"text": "A knight pen"}
@@ -231,10 +269,11 @@
 		"startIntroPart1": "\"I've finally, awoken, at last!",
 		"startIntroPart2": "This world will be mine, A, you'll know it!\"",
 		
-		"declaringWar": "Heheheheh, your pitiful army won't stand up against mine. Prepare to die!",
+		"declaringWar": "I dreamt of fire and ashes covering towns you own. Thankfully, I'm the one who's gonna start it!",
+		"_declaringWar": "Heheheheh, your pitiful army won't stand up against mine. Prepare to die!",
 		"attacked": "Foolish, foolish! Do you think you have what it takes on Drake? I don't believe you!",
 		"defeated": "Urgh, you, you! Gaaah, I surrender! You should be the dragon, not me!",
-		"introduction": "My name is Hatred! Be aware of your manners, otherwise I will strike you!",
+		"introduction": "My name is Hatred! Be aware of your manners, otherwise I will strike you, hahah!",
 		
 		"tradeRequest": "Accept this proposal if you want to be safe.",
 		
@@ -264,10 +303,14 @@
 		"startIntroPart2": "Now plan to conduct experiments with these hopeful subjects!\"",
 		
 		"_declaringWar": "There are some theories that I needed to test if they're right or wrong. Well, you're a good test subject, I apologize for that.",
-		"declaringWar": "Apologize, I've tracked your 'bad' decisions and its proven to be beneficial for declaring war on you right now. I hope you're prepared.",
-		"attacked": "War declaration? I wonder how's this gonna turn out in the end.",
+		"__declaringWar": "Apologize, I've tracked your 'bad' decisions and its proven to be beneficial for declaring war on you right now. I hope you're prepared.",
+		"declaringWar": "Pardon, I have no excuse for war, except for your territory and field experiments I have to conduct. Anyhow, good luck!",
+		"attacked": "Thanks, this makes my job much more easier.",
+		"_attacked": "War declaration? I wonder how's this gonna turn out in the end.",
+		"_defeated": "If I have hands, I would salute you, great conqueror!",
 		"defeated": "If I have hands, I would salute you, great conqueror!",
-		"introduction": "My name is Lester. I hope you're willing to be our test subject for tests I'm about to conduct.",
+		"introduction": "My name is Lester. I once was a scientist of Desion. Why am I here? Whoops, that one is personal.",
+		"__introduction": "My name is Lester. Be careful around me, okay. I can be a bit violent with my job, despite myself not wanting it.",
 		"_introduction": "My name is Lester. It is an interesting pleasure to meet you.",
 		
 		"tradeRequest": "I've carefully calculated this offer to be beneficial for both of us.",
@@ -278,6 +321,7 @@
 			"[+2 Science] from all [Barracks] buildings",
 			"[+2 Science] from all [Stable] buildings",
 			"[+2 Science] from all [Armory] buildings",
+			"[+2 Science] from all [Forge] buildings",
 			"[+2 Science] from all [Military Academy] buildings",
 			"\"Borrows\" city names from other civilizations in the game"
 		],
@@ -301,14 +345,18 @@
 		"startIntroPart1": "\"Aaaa! I've blown away by the wind too much!",
 		"startIntroPart2": "Now I have no lead these people to greater civilization!\"",
 		
-		"declaringWar": "Bad winds have been storming around your nation, the only way to prevent it... is to attack you!",
-		"attacked": "Aww, you just have to attack me, wouldn't you?",
-		"defeated": "Ouchie, that hurts.",
+		"declaringWar": "Winds has been blown in your empire's direction. So did my army, I want to attack your nation full force!",
+		"_declaringWar": "Bad winds have been storming around your nation, the only way to prevent it... is to attack you!",
+		"_attacked": "Aww, you just have to attack me, wouldn't you?",
+		"attacked": "With the power of the winds, you will be unlucky facing The Cottons!",
+		"defeated": "Wind, wind, wind. Why are you betraying me like this...",
+		"_defeated": "Ouchie, that hurts.",
 		"introduction": "Hi hi hi! My name is Catherine! I hope wind of fortune blows in your way as well!",
 		
 		"tradeRequest": "Accept this deal while it's worthwhile!",
 		
-		"uniqueName": "When Wind Blows",
+		"_uniqueName": "When Wind Blows",
+		"uniqueName": "Tailwind United",
 		"uniques": [
 			"[+1] Movement <for [Civilian] units> <while the empire is happy> <when not at war>",
 			"[+1] Movement <for [Military] units> <while the empire is happy> <when at war>"
@@ -316,7 +364,9 @@
 		"_civilopediaText": [
 			{"text": "A silly fluff ball"}
 		],
-		"cities": ["Windveil", "Turbinee", "Bigfan", "Aircond", "Candlee", "Paperlane", "Floatball", "Dandelix", "Windneon", "Sighaw"]
+		"cities": [
+			"Stormvilla", "Cottonfall", "Windveil", "Turbinee", "Bigfan", "Aircond", "Candlee", "Paperlane", "Floatball", "Dandelix", "Windneon", "Sighaw", "Greencloud"
+		]
 	},
 	{
 		"name": "The Maws",
@@ -345,12 +395,15 @@
 		"denounce": "I suspect your malicious intentions. I'll make you pay!",
 		"afterPeace": "I hope the spider would approve of this peace treaty...",
 
-		"declaringWar": "For the sake of the spider, I hereby declare war on you!",
-		"attacked": "You just have to get in the way, aren't you? Well, good luck!",
+		"declaringWar": "Do you see my army of archers? It would be suck if they all aiming towards you, doesn't it? Hehe!",
+		"_declaringWar": "For the sake of the spider, I hereby declare war on you!",
+		"attacked": "Are you for sure that's a wise choice? The spider will be proud of my hunts!",
+		"_attacked": "You just have to get in the way, aren't you? Well, good luck!",
 		"defeated": "Even in my defeat, I will search for you, my spider!",
 		"introduction": "You're not the spider aren't you? Sorry, I can't tell.",
 		
-		"tradeRequest": "I believe this trade will be worthwhile, please accept it.",
+		"tradeRequest": "I can hear the spider tells me, this is a worthwhile trade.",
+		"_tradeRequest": "I believe this trade will be worthwhile, please accept it.",
 		
 		"uniqueName": "Flower Crown",
 		"uniques": [
@@ -365,7 +418,7 @@
 			{"text": "A silly big back-mouthed fellow."}
 		],
 		"_cityThemeNaming": "animal names",
-		"cities": ["Silkmaw", "Hawkpeck", "Deerhorn", "Lionhowl", "Owlgrip", "Horsestep", "Foxcurl", "Catpurr", "Sharkfang", "Komodobite"]
+		"cities": ["Silkmaw", "Hawkpeck", "Deerhorn", "Lionhowl", "Owlsight", "Horsestep", "Foxcurl", "Catpurr", "Sharkfang", "Komodobite", "Snakeacid", "Ratbite", "Bunnyjaw"]
 	},
 	{
 		"name": "D'Latte",
@@ -381,12 +434,15 @@
 		"startIntroPart1": "\"What is this place?",
 		"startIntroPart2": "Whatever, as long I get to serve people coffee, I'm happy!\"",
 		
-		"declaringWar": "I've been feeling this energized after drinking this coffee. The next thing I want, is to attack you!",
+		"_declaringWar": "I've been feeling this energized after drinking this coffee. The next thing I want, is to attack you!",
+		"declaringWar": "Even after my eleventh coffee, I can't stop my own thought to declare war on you. Gah, prepare yourselves!",
 		"attacked": "We're here just for peace, but if you're going to attack, we'll defend!",
-		"defeated": "Maybe I shouldn't serve so much coffee, heh~",
-		"introduction": "Greetings, D'Latte accepts your presence with pleasure!",
+		"_defeated": "Maybe I shouldn't serve so much coffee, heh~",
+		"defeated": "Maybe, I shouldn't so fed up by drinking too much coffee. Ouch.",
+		"introduction": "Greetings, Amanda of D'Latte accepts your presence with pleasure!",
 		
-		"tradeRequest": "This trade includes a free coffee. Hmm~",
+		"tradeRequest": "This should be acceptable, yes?",
+		"_tradeRequest": "This trade includes a free coffee. Hmm~",
 		
 		"uniqueName": "Coffee Joints",
 		"uniques": [

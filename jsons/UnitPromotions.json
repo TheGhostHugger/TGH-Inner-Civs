@@ -14,8 +14,7 @@
   {
     "name": "Arachnid's Instinct",
 		"uniques": [
-      "Can see over obstacles",
-      "[+1] Sight"
+      "Can see over obstacles"
     ]
   },
   {
@@ -34,7 +33,8 @@
   {
     "name": "[Phantom] ability",
     "uniques": [
-      "Invisible to non-adjacent units"
+      "Invisible to non-adjacent units",
+      "Can pass through impassable tiles"
     ]
   },
   {

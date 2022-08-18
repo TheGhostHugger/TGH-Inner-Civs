@@ -12,7 +12,8 @@
 		"obsoleteTech": "Chivalry",
 		"promotions": ["Arachnid's Instinct"],
 		"uniques": [
-			"Ignores terrain cost"
+			"Ignores terrain cost",
+			"[+1] Sight"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -123,12 +124,12 @@
 		"replaces": "Helicopter Gunship",
 		"unitType": "Helicopter",
 		"movement": 6,
-		"strength": 54,
+		"strength": 60,
 		"cost": 425,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
-			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "[2] additional attacks per turn"],
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "[1] additional attacks per turn"],
 		"attackSound": "machinegun"
 	},
 	{
