@@ -223,7 +223,21 @@ NationIcons/The Spectrals
   index: -1
 TileSets/FantasyHex/Tiles/Murals
   rotate: false
+  xy: 1192, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fieldwright
+  rotate: false
   xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Phantom
+  rotate: false
+  xy: 1300, 328
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
