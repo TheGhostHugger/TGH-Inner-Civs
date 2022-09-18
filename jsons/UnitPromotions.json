@@ -1,11 +1,5 @@
 [
   {
-    "name": "Burning Desire",
-		"uniques": [
-      "No movement cost to pillage"
-    ]
-  },
-  {
     "name": "Bounty",
 		"uniques": [
       "Earn [10]% of killed [Military] unit's [Cost] as [Gold]"
@@ -19,9 +13,8 @@
   },
   {
     "name": "Fresh Forged",
-    "_comment": "Probably will be used for Hatred's Furnace thing, swap out Forgery, and grant Sword/Gunpowder unit this.",
 		"uniques": [
-      "[+33]% Strength <vs cities>"
+      "[+15]% Strength"
     ]
   },
   {
@@ -49,8 +42,8 @@
   {
 		"name": "[Sharpshooter] ability",
 		"uniques": [
-			"[+33]% Strength <vs [Wounded] units> <when attacking>",
-      "Can move after attacking"
+			"[+25]% Strength <vs [Wounded] units> <when attacking>",
+      "[+1] Movement"
     ]
 	},
   {
@@ -73,8 +66,8 @@
   {
     "name": "[Flamethrower] ability",
     "uniques": [
-      "[+33]% Strength <when fighting in [Forest] tiles>", 
-      "[+33]% Strength <when fighting in [Jungle] tiles>",
+      "[+20]% Strength <when fighting in [Forest] tiles>", 
+      "[+20]% Strength <when fighting in [Jungle] tiles>",
       "Can build [Remove Forest] improvements on tiles",
       "Can build [Remove Jungle] improvements on tiles",
       "No movement cost to pillage",

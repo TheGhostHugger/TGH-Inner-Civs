@@ -304,7 +304,7 @@
 		
 		"uniqueName": "Hatred's Conquest",
 		"uniques": [
-			"[+20]% Strength <for [Military] units> <when above [55] HP>"
+			"[+20]% Strength <for [Military] units> <when above [66] HP>"
 		],
 		"_civilopediaText": [
 			{"text": "A scary dragon"}
@@ -360,7 +360,7 @@
 	},
 	{
 		"name": "The Cottons",
-		"leaderName": "Catherine C.",
+		"leaderName": "Catherine C.W.",
 		"outerColor": [43, 71, 37],
 		"innerColor": [196, 222, 191],
 		"preferredVictoryType": "Domination",
@@ -438,7 +438,7 @@
 		
 		"uniqueName": "Flower Crown",
 		"uniques": [
-			"[+15]% Strength <for [{Land} {Ranged}] units>"
+			"[+15]% Strength <for [{Land} {Ranged}] units> <when attacking>"
 		],
 		"_uniques": [
 			"Receive free [Sharpshooter] when you discover [Construction]",
