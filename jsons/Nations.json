@@ -4,13 +4,13 @@
 		"leaderName": "Purplus",
 		"outerColor": [66, 32, 87],
 		"innerColor": [252, 249, 81],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 		"favouredPolicy": "Freedom",
 
 		"uniqueName": "Heavenly Society",
 		"uniques": [
-			"Gain [10] Influence with a [Military] gift to a City-State",
-			"City-State territory always counts as friendly territory"
+			"[+1 Culture] from every specialist [in all cities]",
+			"[+1 Culture, +1 Happiness] from every [Great Improvement]"
 		],
 		
 		"neutralHello": "Good morning!",
@@ -98,7 +98,7 @@
 		"leaderName": "Hanny",
 		"outerColor": [251, 176, 55],
 		"innerColor": [201, 99, 4],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Neutral",
 		"startBias": ["Forest"],
 		"favouredPolicy": "Freedom",
 
@@ -151,13 +151,14 @@
 		"leaderName": "A",
 		"outerColor": [96, 63, 131],
 		"innerColor": [199, 211, 212],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Neutral",
 		"favouredPolicy": "Freedom",
 
 		"uniqueName": "Meaning of Life",
 		"uniques": [
 			"[+50]% Yield from every [Great Improvement]",
-			"[+25]% Great Person generation [in all cities] <during a Golden Age>"
+			"[+25]% Great Person generation [in all cities] <during a Golden Age>",
+			"[+2 Happiness] from [Citadel] tiles [in all cities]"
 		],
 		
 		"neutralHello": "Anything you want?",
@@ -406,7 +407,7 @@
 			{"text": "A silly fluff ball"}
 		],
 		"cities": [
-			"Stormvilla", "Cottonfall", "Windveil", "Turbinee", "Bigfan", "Aircond", "Candlee", "Paperlane", "Floatball", "Dandelix", "Windneon", "Sighaw", "Greencloud"
+			"Cottonfall", "Windveil", "Turbinee", "Bigfan", "Aircond", "Candlee", "Paperlane", "Floatball", "Dandelix", "Windneon", "Sighaw", "Greencloud", "Stormvilla"
 		]
 	},
 	{
