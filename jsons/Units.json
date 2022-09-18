@@ -25,12 +25,12 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
-		"cost": 80,
+		"cost": 90,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions": ["Shock I"],
-		"upgradesTo": "Lancer",
-		"obsoleteTech": "Gunpowder",
+		"promotions": ["[Honey Soldier] ability"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 	},
 	{
@@ -40,7 +40,7 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 20,
-		"cost": 100,
+		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
@@ -48,10 +48,9 @@
 		"uniques": [
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"[-33]% Strength <vs cities> <when attacking>",
-			"Can move immediately once bought"
+			"[-33]% Strength <vs cities> <when attacking>"
 		],
-		"promotions": ["Mobility"],
+		"promotions": ["Bounty"],
 		"attackSound": "horse"
 	},
 	{
@@ -66,7 +65,7 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": [
-			"Burning Desire", "Woodsman"
+			"[Flamethrower] ability"
 		],
 		"attackSound": "shot"
 	},
@@ -75,12 +74,12 @@
 		"uniqueTo": "Desion",
 		"replaces": "Gatling Gun",
 		"unitType": "Ranged Gunpowder",
-		"range": 1,
+		"range": 2,
 		"movement": 2,
-		"strength": 26,
-		"rangedStrength": 36,
+		"strength": 27,
+		"rangedStrength": 27,
 		"cost": 225,
-		"promotions": ["Extended Range"],
+		"promotions": ["[Sniper] ability"],
 		"uniques": ["Invisible to non-adjacent units"],
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Machine Gun",
@@ -119,7 +118,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Warcopter",
+		"name": "Apache Fighter",
 		"uniqueTo": "The Rotors",
 		"replaces": "Helicopter Gunship",
 		"unitType": "Helicopter",

@@ -8,7 +8,7 @@
   {
     "name": "Bounty",
 		"uniques": [
-      "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
+      "Earn [10]% of killed [Military] unit's [Cost] as [Gold]"
     ]
   },
   {
@@ -34,25 +34,51 @@
     "name": "[Phantom] ability",
     "uniques": [
       "Invisible to non-adjacent units",
-      "Can pass through impassable tiles"
+      "Can pass through impassable tiles",
+      "Ignores Zone of Control"
     ]
   },
   {
 		"name": "[Pegasus] ability",
 		"uniques": [
 			"[+20]% Strength <when fighting in [Hill] tiles>",
-			"Double movement in [Hill]"
+			"Double movement in [Hill]",
+      "Ignores Zone of Control"
     ]
 	},
   {
 		"name": "[Sharpshooter] ability",
 		"uniques": [
-			"[+25]% Strength <vs [Wounded] units>",
+			"[+33]% Strength <vs [Wounded] units> <when attacking>",
       "Can move after attacking"
     ]
 	},
   {
 		"name": "[Fieldwright] ability",
 		"uniques": ["Can build [Land] improvements on tiles"]
-	}
+	},
+  {
+		"name": "[Honey Soldier] ability",
+		"uniques": [
+      "[+50]% to Flank Attack bonuses",
+      "[+50]% Strength <vs [Wounded] units>"
+    ]
+	},
+  {
+    "name": "[Sniper] ability",
+    "uniques": [
+      "[+50]% Strength <vs [Wounded] units> <when attacking>"
+    ]
+  },
+  {
+    "name": "[Flamethrower] ability",
+    "uniques": [
+      "[+33]% Strength <when fighting in [Forest] tiles>", 
+      "[+33]% Strength <when fighting in [Jungle] tiles>",
+      "Can build [Remove Forest] improvements on tiles",
+      "Can build [Remove Jungle] improvements on tiles",
+      "No movement cost to pillage",
+      "Destroys tile improvements when attacking"
+    ]
+  }
 ]
