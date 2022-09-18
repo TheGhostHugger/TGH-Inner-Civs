@@ -6,6 +6,12 @@
 		"innerColor": [252, 249, 81],
 		"preferredVictoryType": "Diplomatic",
 		"favouredPolicy": "Freedom",
+
+		"uniqueName": "Heavenly Society",
+		"uniques": [
+			"Gain [10] Influence with a [Military] gift to a City-State",
+			"City-State territory always counts as friendly territory"
+		],
 		
 		"neutralHello": "Good morning!",
 		"hateHello": "Good morning...",
@@ -29,12 +35,7 @@
 		"_attacked": "D-do you think I'm not kind enough? Why, why?!",
 		"_tradeRequest": "Hehehe, this trade should be beneficial for both of us!",
 		"_defeated": "M-maybe I should've trained myself better for this, h-hehe",
-		
-		"uniqueName": "Heavenly Society",
-		"uniques": [
-			"Gain [10] Influence with a [Military] gift to a City-State",
-			"City-State territory always counts as friendly territory"
-		],
+
 		"_uniques": [
 			"[+20]% Production when constructing [Happiness] buildings [in all non-occupied cities]",
 			"[+20]% [Production] [in all non-occupied cities] <during a Golden Age>",
@@ -54,6 +55,12 @@
 		"preferredVictoryType": "Domination",
 		"startBias": ["Grassland"],
 		"favouredPolicy": "Order",
+
+		"uniqueName": "Silks's Territory",
+		"uniques": [
+			"[+1 Production] from [Bonus resource] tiles [in all cities]",
+			"[-10]% [Food] [in all cities]"
+		],
 		
 		"neutralHello": "Anything you want, captain?",
 		"hateHello": "Hmm?",
@@ -72,12 +79,7 @@
 		"_attacked": "What a surprise! Well, I'm looking forward for this great fight!",
 		"_defeated": "Hahaha! You fought this war very well! I, Pita, leader of The Silks, officially concedes.",
 		
-		"uniqueName": "Silks's Territory",
 		"_uniqueName": "Threads of Fate",
-		"uniques": [
-			"[+1 Production] from [Bonus resource] tiles [in all cities]",
-			"[-10]% [Food] [in all cities]"
-		],
 		"_uniques": [
 			"[+10]% Production when constructing [All] buildings [in all cities]"
 		],
@@ -100,18 +102,26 @@
 		"startBias": ["Forest"],
 		"favouredPolicy": "Freedom",
 
-		"pita_interaction": {
-			"neutralHello": "Hi Pita!"
+		"uniqueName": "Honey Capital",
+		"uniques": [
+			"[+1 Food] from [Forest] tiles without [Lumber mill] [in all cities]",
+			"[+1] Movement <for [All] units> <in [Forest] tiles>"
+		],
+
+		"specialInteraction": {
+			"Pita Silkmaw": {
+				"neutralHello": "Welcome Pita!"
+			}
 		},
 		
 		"neutralHello": "What's up!",
 		"hateHello": "There are no free honey for you!",
 		
 		"startIntroPart1": "\"Wh-what!? A-am I dreaming?! Maybe with this,",
-		"startIntroPart2": "I can have a lot of friends, while having Pita and Stella with me~\"",
+		"startIntroPart2": "I can have a lot of friends, while having Pita and Stella with me!\"",
 		
 		"declaringWar": "My instincts, I can't believe it, but now, I just want to erase you from existence!",
-		"attacked": "Are you kidding me? Let me tell you, you won't win this!",
+		"attacked": "Are you kidding me? Let me tell you, I will win this war!",
 		"defeated": "Pita, Stella and Catherine, I've failed. I've failed! I've failed!",
 		"introduction": "Hehe, my name is Hanny! Here, have some honey, those are free!",
 		
@@ -121,12 +131,7 @@
 		"_attacked": "A-are you kidding? L-let me tell you, y-you won't win this!",
 		"_defeated": "H-hehehehe, h-hehehehe, h-hehehehehehe! Y-you f-fought so well! I-I give up!",
 		"_tradeRequest": "C'mon, this is a beneficial trade, trust me!",
-		
-		"uniqueName": "Honey Capital",
-		"uniques": [
-			"[+1 Food] from [Forest] tiles without [Lumber mill] [in all cities]",
-			"[+1] Movement <for [All] units> <in [Forest] tiles>"
-		],
+
 		"__uniques": [
 			"[+1 Gold] from [Bonus resource] tiles [in all cities connected to capital]",
 			"[+1 Gold] from [Strategic resource] tiles [in all cities connected to capital]"
@@ -148,6 +153,12 @@
 		"innerColor": [199, 211, 212],
 		"preferredVictoryType": "Cultural",
 		"favouredPolicy": "Freedom",
+
+		"uniqueName": "Meaning of Life",
+		"uniques": [
+			"[+50]% Yield from every [Great Improvement]",
+			"[+25]% Great Person generation [in all cities] <during a Golden Age>"
+		],
 		
 		"neutralHello": "Anything you want?",
 		"hateHello": "I feel concerned.",
@@ -177,11 +188,6 @@
 		"___attacked": "War is always what I wanted from the beginning. Thanks for making it easier for me, heheh.",
 		"_tradeRequest": "What do you think... about our offer?",
 		
-		"uniqueName": "Meaning of Life",
-		"uniques": [
-			"[+50]% Yield from every [Great Improvement]",
-			"[+25]% Great Person generation [in all cities] <during a Golden Age>"
-		],
 		"_civilopediaText": [
 			{"text": "A human"}
 		],
@@ -197,6 +203,12 @@
 		"preferredVictoryType": "Scientific",
 		"startBias": ["Coast"],
 		"favouredPolicy": "Freedom",
+
+		"uniqueName": "National Water",
+		"uniques": [
+			"Gain a free [Lighthouse] [in all coastal cities]",
+			"[+2 Science] from [Water] tiles [in all cities]"
+		],
 		
 		"neutralHello": "Any topic?",
 		"hateHello": "On point.",
@@ -215,11 +227,6 @@
 		"_attacked": "You kidding? Guess, you'll vanish!",
 		"_uniqueName": "Liquidation",
 		
-		"uniqueName": "National Water",
-		"uniques": [
-			"Gain a free [Lighthouse] [in all coastal cities]",
-			"[+2 Science] from [Water] tiles [in all cities]"
-		],
 		"_uniques": [
 			"[+2 Science] from [Water] tiles [in all cities]",
 			"Gain a free [Alchemy] [in capital] <after discovering [Writing]>",
@@ -240,6 +247,12 @@
 		"preferredVictoryType": "Domination",
 		"favouredPolicy": "Autocracy",
 		"startBias": ["Avoid [Jungle]"],
+
+		"uniqueName": "Adventurer's Guild",
+		"uniques": [
+			"Starts with [Iron Working]",
+			"[-15]% Gold cost of upgrading <for [Military] units>"
+		],
 		
 		"neutralHello": "Interested for a spar?",
 		"_neutralHello": "Huh, yeah?",
@@ -261,11 +274,6 @@
 		"_defeated": "You're so good at this, I feel honored to be defeated.",
 		"_introduction": "My name is Sid of the Knights. We're running knight errands daily, join while you can!",
 
-		"uniqueName": "Adventurer's Guild",
-		"uniques": [
-			"Starts with [Iron Working]",
-			"[-15]% Gold cost of upgrading <for [Military] units>"
-		],
 		"_civilopediaText": [
 			{"text": "A knight pen"}
 		],
@@ -279,6 +287,11 @@
 		"innerColor": [233, 75, 60],
 		"preferredVictoryType": "Domination",
 		"favouredPolicy": "Autocracy",
+
+		"uniqueName": "Hatred's Conquest",
+		"uniques": [
+			"[+20]% Strength <for [Military] units> <when above [66] HP>"
+		],
 		
 		"neutralHello": "Who awaken the beast?",
 		"hateHello": "I hope you understand what you're dealing with.",
@@ -289,9 +302,9 @@
 		"declaringWar": "I dreamt of fire and ashes covering towns you own. I apologize, but I'm the one who's gonna start it.",
 		"attacked": "Huh, a war? Hmm, I hope this is worth it for you.",
 		"defeated": "Perhaps, fate is better stay in your hands.",
-		"introduction": "In front of you, stands Drake. I've seen, the world is doomed. I hope you're prepared what will come.",
+		"introduction": "In front of you, stands Drake. I've seen, the world is doomed. I hope you're prepared of what will come.",
 		
-		"tradeRequest": "Accept this proposal, it is a fate I suppose you should accept.",
+		"tradeRequest": "This trade will determine the fate of our existence.",
 
 		"__defeated": "Urgh, you, you! Gaaah, I surrender! You should be the dragon, not me!",
 		"_attacked": "Foolish, foolish! Do you think you have what it takes on Drake? I don't believe you!",
@@ -302,10 +315,6 @@
 		"_hateHello": "What is it, enemy?",
 		"_neutralHello": "What do you want?",
 		
-		"uniqueName": "Hatred's Conquest",
-		"uniques": [
-			"[+20]% Strength <for [Military] units> <when above [66] HP>"
-		],
 		"_civilopediaText": [
 			{"text": "A scary dragon"}
 		],
@@ -319,6 +328,13 @@
 		"innerColor": [129, 52, 5],
 		"preferredVictoryType": "Domination",
 		"favouredPolicy": "Autocracy",
+
+		"uniqueName": "Field Experiment",
+		"uniques": [
+			"Earn [10]% of killed [Military] unit's [Cost] as [Science]",
+			"[+2 Science] from every [Strategic resource]",
+			"\"Borrows\" city names from other civilizations in the game"
+		],
 		
 		"neutralHello": "Any necessary discussion?",
 		"hateHello": "You're here? Interesting.",
@@ -340,12 +356,6 @@
 		
 		"tradeRequest": "I've carefully calculated this offer to be beneficial for both of us.",
 		
-		"uniqueName": "Field Experiment",
-		"uniques": [
-			"Earn [10]% of killed [Military] unit's [Cost] as [Science]",
-			"[+2 Science] from every [Strategic resource]",
-			"\"Borrows\" city names from other civilizations in the game"
-		],
 		"_uniques": [
 			"[+2 Science] from all [Barracks] buildings",
 			"[+2 Science] from all [Stable] buildings",
@@ -366,6 +376,13 @@
 		"preferredVictoryType": "Domination",
 		"startBias": ["Grassland"],
 		"favouredPolicy": "Autocracy",
+
+		"uniqueName": "Tailwind United",
+		"uniques": [
+			"[+1] Movement <for [Civilian] units>",
+			"[+1] Movement <for [Civilian] units> <when not at war>",
+			"[+1] Movement <for [Military] units> <when at war>"
+		],
 		
 		"neutralHello": "Yeah, yeah!",
 		"hateHello": "I'm waiting the winds to start...",
@@ -385,12 +402,6 @@
 		"_declaringWar": "Bad winds have been storming around your nation, the only way to prevent it... is to attack you!",
 		"_uniqueName": "When Wind Blows",
 		
-		"uniqueName": "Tailwind United",
-		"uniques": [
-			"[+1] Movement <for [Civilian] units>",
-			"[+1] Movement <for [Civilian] units> <when not at war>",
-			"[+1] Movement <for [Military] units> <when at war>"
-		],
 		"_civilopediaText": [
 			{"text": "A silly fluff ball"}
 		],
@@ -407,13 +418,20 @@
 		"startBias": ["Hill"],
 		"favouredPolicy": "Autocracy",
 
-		"pita_interaction": {
-			"neutralHello": "What can I do for you, spider?",
-			"hateHello": "I'm sorry, spider...",
-			"declaringWar": "I'm very very sorry, spider. But your treachery leaves me no choice...",
-			"introduction": "Pita! Welcome to my territory!",
-			"attacked": "I'm going to cry, but that doesn't mean I won't defend myself...",
-			"defeated": "At least with this, I can stay on your side from now on, spider!"
+		"uniqueName": "Flower Crown",
+		"uniques": [
+			"[+15]% Strength <for [{Land} {Ranged}] units> <when attacking>"
+		],
+
+		"specialInteraction": {
+			"Pita Silkmaw": {
+				"neutralHello": "What can I do for you, spider?",
+				"hateHello": "I'm sorry, spider...",
+				"declaringWar": "I'm very very sorry, spider. But your treachery leaves me no choice...",
+				"introduction": "Pita! Welcome to my territory!",
+				"attacked": "I'm going to cry, but that doesn't mean I won't defend myself...",
+				"defeated": "At least with this, I can stay on your side from now on, spider!"
+			}
 		},
 		
 		"neutralHello": "You're not a spider, right?",
@@ -436,10 +454,6 @@
 		"_declaringWar": "For the sake of the spider, I hereby declare war on you!",
 		"_tradeRequest": "I believe this trade will be worthwhile, please accept it.",
 		
-		"uniqueName": "Flower Crown",
-		"uniques": [
-			"[+15]% Strength <for [{Land} {Ranged}] units> <when attacking>"
-		],
 		"_uniques": [
 			"Receive free [Sharpshooter] when you discover [Construction]",
 			"[+33]% Production when constructing [All] units [in all cities] <during a Golden Age>"
@@ -457,6 +471,13 @@
 		"innerColor": [255, 196, 130],
 		"preferredVictoryType": "Cultural",
 		"favouredPolicy": "Freedom",
+
+		"uniqueName": "Coffee Joints",
+		"uniques": [
+			"[+1 Happiness] from all [Culture] buildings",
+			"[+1 Happiness] from all [Production] buildings",
+			"[+10] HP when healing <within [2] tiles of a [Coffee Joint]>"
+		],
 		
 		"neutralHello": "Want a cup of coffee?",
 		"hateHello": "I don't want to see you...",
@@ -475,12 +496,6 @@
 		"_defeated": "Maybe I shouldn't serve so much coffee, heh~",
 		"_tradeRequest": "This trade includes a free coffee. Hmm~",
 		
-		"uniqueName": "Coffee Joints",
-		"uniques": [
-			"[+1 Happiness] from all [Culture] buildings",
-			"[+1 Happiness] from all [Production] buildings",
-			"[+10] HP when healing <within [2] tiles of a [Coffee Joint]>"
-		],
 		"_civilopediaText": [
 			{"text": "A silly rabbit"}
 		],
